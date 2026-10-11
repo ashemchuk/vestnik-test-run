@@ -1,0 +1,59 @@
+name: vestnik-ojs
+
+services:
+  db:
+    image: mariadb:11.8
+    environment:
+      MARIADB_DATABASE: ojs
+      MARIADB_USER: ojs
+      MARIADB_PASSWORD: ${OJS_DB_PASSWORD:?Set OJS_DB_PASSWORD in .env}
+      MARIADB_ROOT_PASSWORD: ${DB_ROOT_PASSWORD:?Set DB_ROOT_PASSWORD in .env}
+    volumes:
+      - db_data:/var/lib/mysql
+    healthcheck:
+      test: [CMD, healthcheck.sh, --connect, --innodb_initialized]
+      interval: 5s
+      timeout: 5s
+      retries: 30
+    restart: unless-stopped
+
+  ojs:
+    image: pkpofficial/ojs:3_5_0-5
+    platform: linux/amd64
+    user: "0:0"
+    environment:
+      SERVERNAME: localhost
+      PKP_CONF: /var/www/html/config.inc.php
+      PKP_CLI_INSTALL: "0"
+      OJS_DB_PASSWORD: ${OJS_DB_PASSWORD}
+    ports:
+      - "127.0.0.1:8080:80"
+    volumes:
+      - ojs_app:/var/www/html
+      - ojs_files:/var/www/files
+      - ./docker/bootstrap.php:/opt/vestnik/bootstrap.php:ro
+      - ./docker/php.ini:/usr/local/etc/php/conf.d/vestnik.ini:ro
+      - ./docker/apache-local.conf:/etc/apache2/conf-enabled/vestnik-local.conf:ro
+    command: [sh, -c, "php /opt/vestnik/bootstrap.php && chown www-data:www-data /var/www/files && exec /usr/local/bin/pkp-start"]
+    depends_on:
+      db:
+        condition: service_healthy
+      mailpit:
+        condition: service_started
+    restart: unless-stopped
+
+  mailpit:
+    image: axllent/mailpit:latest
+    ports:
+      - "127.0.0.1:8025:8025"
+    environment:
+      MP_DATABASE: /data/mailpit.db
+    volumes:
+      - mail_data:/data
+    restart: unless-stopped
+
+volumes:
+  db_data:
+  ojs_app:
+  ojs_files:
+  mail_data:
