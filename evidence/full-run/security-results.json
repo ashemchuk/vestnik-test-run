@@ -1,0 +1,51 @@
+{
+  "authorA_B_submission": {
+    "http": 401,
+    "body": {
+      "error": "user.authorization.roleBasedAccessDenied",
+      "errorMessage": "The current role does not have access to this operation."
+    }
+  },
+  "authorA_B_file": {
+    "http": 200,
+    "body": "{\"status\":false,\"content\":\"The current role does not have access to this operation.\",\"elementId\":\"0\",\"events\":[]}"
+  },
+  "unassignedReviewer_B": {
+    "http": 401,
+    "body": {
+      "error": "user.authorization.roleBasedAccessDenied",
+      "errorMessage": "The current role does not have access to this operation."
+    }
+  },
+  "anonymous_internal_galley": {
+    "http": 200,
+    "body": "{\"status\":false,\"content\":\"\\u0414\\u0430\\u043d\\u043d\\u0430\\u044f \\u0440\\u043e\\u043b\\u044c \\u043d\\u0435 \\u0438\\u043c\\u0435"
+  },
+  "anonymous_public_PDF": {
+    "http": 200,
+    "bytes": 39646,
+    "matchesFixture": true
+  },
+  "anonymous_original_manuscript": {
+    "http": 200,
+    "body": "{\"status\":false,\"content\":\"\\u0414\\u0430\\u043d\\u043d\\u0430\\u044f \\u0440\\u043e\\u043b\\u044c \\u043d\\u0435 \\u0438\\u043c\\u0435"
+  },
+  "A_unchanged_after_C": true,
+  "probeSubmissionId": 5,
+  "blocked-upload.php": {
+    "accepted": true,
+    "fileId": 21,
+    "mimetype": "text/x-php",
+    "path": "journals/1/articles/5/6acbdca354da3.txt",
+    "deleteViaRestDenied": true,
+    "executablePayload": false
+  },
+  "blocked-upload.html": {
+    "accepted": true,
+    "fileId": 22,
+    "mimetype": "text/html",
+    "path": "journals/1/articles/5/6acbdca3af4a4.html",
+    "deleteViaRestDenied": true,
+    "executablePayload": false
+  }
+}

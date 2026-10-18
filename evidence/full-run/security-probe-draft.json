@@ -1,0 +1,144 @@
+{
+  "http": 200,
+  "body": {
+    "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/5",
+    "availableEditorialDecisions": [],
+    "canCurrentUserChangeMetadata": true,
+    "commentsForTheEditors": null,
+    "contextId": 1,
+    "crossrefplugin::registeredDoi": null,
+    "crossrefplugin::status": null,
+    "crossrefplugin_batchId": null,
+    "crossrefplugin_failedMsg": null,
+    "crossrefplugin_successMsg": null,
+    "currentPublicationId": 5,
+    "dataciteplugin::registeredDoi": null,
+    "dataciteplugin::status": null,
+    "dateLastActivity": "2026-10-12 01:59:47",
+    "dateSubmitted": "2026-10-12 01:59:47",
+    "editorAssigned": false,
+    "id": 5,
+    "issueToBePublished": null,
+    "lastModified": "2026-10-12 01:59:47",
+    "locale": "ru",
+    "metadataLocales": {
+      "en": "English",
+      "ru": "Russian"
+    },
+    "participants": [
+      {
+        "id": 10,
+        "fullName": "Второй Автор",
+        "canLoginAs": false
+      }
+    ],
+    "publications": [
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/5/publications/5",
+        "authorsString": "",
+        "authorsStringIncludeInBrowse": "",
+        "authorsStringShort": "",
+        "categoryIds": [],
+        "coverImage": {
+          "ru": null,
+          "en": null
+        },
+        "crossrefplugin::registeredDoi": null,
+        "crossrefplugin::status": null,
+        "crossrefplugin_batchId": null,
+        "crossrefplugin_failedMsg": null,
+        "crossrefplugin_successMsg": null,
+        "dataciteplugin::registeredDoi": null,
+        "dataciteplugin::status": null,
+        "datePublished": null,
+        "doiObject": null,
+        "fullTitle": {
+          "ru": "",
+          "en": ""
+        },
+        "galleys": [],
+        "id": 5,
+        "locale": "ru",
+        "pages": null,
+        "prefix": {
+          "ru": "",
+          "en": ""
+        },
+        "primaryContactId": null,
+        "pub-id::publisher-id": null,
+        "sectionId": 1,
+        "status": 1,
+        "submissionId": 5,
+        "subtitle": {
+          "ru": "",
+          "en": ""
+        },
+        "title": {
+          "ru": "",
+          "en": ""
+        },
+        "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/5/version/5",
+        "version": 1
+      }
+    ],
+    "recommendationsIn": null,
+    "reviewAssignments": [],
+    "reviewRounds": [],
+    "reviewerSuggestions": [],
+    "reviewersNotAssigned": false,
+    "revisionsRequested": false,
+    "revisionsSubmitted": false,
+    "scheduledIn": null,
+    "stageId": 1,
+    "stages": [
+      {
+        "id": 1,
+        "label": "Submission",
+        "isActiveStage": true,
+        "editorAssigned": false,
+        "currentUserAssignedRoles": [
+          65536
+        ],
+        "uploadedFilesCount": null
+      },
+      {
+        "id": 3,
+        "label": "Review",
+        "isActiveStage": false,
+        "editorAssigned": false,
+        "currentUserAssignedRoles": [
+          65536
+        ],
+        "uploadedFilesCount": null
+      },
+      {
+        "id": 4,
+        "label": "Copyediting",
+        "isActiveStage": false,
+        "editorAssigned": false,
+        "currentUserAssignedRoles": [
+          65536
+        ],
+        "uploadedFilesCount": 0
+      },
+      {
+        "id": 5,
+        "label": "Production",
+        "isActiveStage": false,
+        "editorAssigned": false,
+        "currentUserAssignedRoles": [
+          65536
+        ],
+        "uploadedFilesCount": null
+      }
+    ],
+    "status": 1,
+    "statusLabel": "Queued",
+    "submissionProgress": "start",
+    "urlAuthorWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/mySubmissions?workflowSubmissionId=5",
+    "urlEditorialWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/editorial?workflowSubmissionId=5",
+    "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/5",
+    "urlSubmissionWizard": "http://localhost:8080/vestnik-test/en/submission?id=5",
+    "urlWorkflow": "http://localhost:8080/vestnik-test/en/submission?id=5"
+  }
+}

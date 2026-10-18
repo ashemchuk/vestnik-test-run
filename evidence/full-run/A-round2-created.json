@@ -1,0 +1,16 @@
+{
+  "http": 200,
+  "body": {
+    "_href": "http://localhost:8080/index/api/v1/submissions/2/decisions/8",
+    "dateDecided": "2026-10-12 01:46:54",
+    "decision": 14,
+    "description": "Open another round of review for this submission.",
+    "editorId": 2,
+    "id": 8,
+    "label": "New Review Round",
+    "reviewRoundId": 3,
+    "round": 1,
+    "stageId": 3,
+    "submissionId": 2
+  }
+}

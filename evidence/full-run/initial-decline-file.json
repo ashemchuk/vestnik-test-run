@@ -1,0 +1,73 @@
+{
+  "http": 200,
+  "body": {
+    "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/6/files/23",
+    "assocId": null,
+    "assocType": null,
+    "caption": null,
+    "copyrightOwner": null,
+    "createdAt": "2026-10-12 02:09:21",
+    "creator": {
+      "ru": "",
+      "en": ""
+    },
+    "credit": null,
+    "crossrefplugin::registeredDoi": null,
+    "crossrefplugin::status": null,
+    "crossrefplugin_batchId": null,
+    "crossrefplugin_failedMsg": null,
+    "crossrefplugin_successMsg": null,
+    "dataciteplugin::registeredDoi": null,
+    "dataciteplugin::status": null,
+    "dateCreated": null,
+    "dependentFiles": [],
+    "description": {
+      "ru": "",
+      "en": ""
+    },
+    "documentType": "word",
+    "fileId": 19,
+    "fileStage": 2,
+    "genreId": 1,
+    "genreIsDependent": false,
+    "genreIsSupplementary": false,
+    "genreName": {
+      "en": "Article Text",
+      "ru": "Текст статьи"
+    },
+    "id": 23,
+    "language": null,
+    "locale": null,
+    "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "name": {
+      "ru": "C-styled.docx",
+      "en": ""
+    },
+    "path": "journals/1/articles/6/6acbdee1d1edd.docx",
+    "publisher": {
+      "ru": "",
+      "en": ""
+    },
+    "revisions": [],
+    "source": {
+      "ru": "",
+      "en": ""
+    },
+    "sourceSubmissionFileId": null,
+    "sponsor": {
+      "ru": "",
+      "en": ""
+    },
+    "subject": {
+      "ru": "",
+      "en": ""
+    },
+    "submissionId": 6,
+    "terms": null,
+    "updatedAt": "2026-10-12 02:09:21",
+    "uploaderUserId": 10,
+    "uploaderUserName": "author2",
+    "url": "http://localhost:8080/vestnik-test/$$$call$$$/api/file/file-api/download-file?submissionFileId=23&submissionId=6&stageId=1",
+    "viewable": null
+  }
+}

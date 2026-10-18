@@ -1,0 +1,144 @@
+{
+  "http": 200,
+  "body": {
+    "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/4",
+    "availableEditorialDecisions": [],
+    "canCurrentUserChangeMetadata": false,
+    "commentsForTheEditors": null,
+    "contextId": 1,
+    "crossrefplugin::registeredDoi": null,
+    "crossrefplugin::status": null,
+    "crossrefplugin_batchId": null,
+    "crossrefplugin_failedMsg": null,
+    "crossrefplugin_successMsg": null,
+    "currentPublicationId": 4,
+    "dataciteplugin::registeredDoi": null,
+    "dataciteplugin::status": null,
+    "dateLastActivity": "2026-10-12 01:57:49",
+    "dateSubmitted": "2026-10-12 01:57:49",
+    "editorAssigned": false,
+    "id": 4,
+    "issueToBePublished": null,
+    "lastModified": "2026-10-12 01:57:49",
+    "locale": "ru",
+    "metadataLocales": {
+      "en": "English",
+      "ru": "Russian"
+    },
+    "participants": [
+      {
+        "id": 11,
+        "fullName": "Третий Автор",
+        "canLoginAs": false
+      }
+    ],
+    "publications": [
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/4/publications/4",
+        "authorsString": "Третий Автор ()",
+        "authorsStringIncludeInBrowse": "Третий Автор ()",
+        "authorsStringShort": "Автор",
+        "categoryIds": [],
+        "coverImage": {
+          "ru": null,
+          "en": null
+        },
+        "crossrefplugin::registeredDoi": null,
+        "crossrefplugin::status": null,
+        "crossrefplugin_batchId": null,
+        "crossrefplugin_failedMsg": null,
+        "crossrefplugin_successMsg": null,
+        "dataciteplugin::registeredDoi": null,
+        "dataciteplugin::status": null,
+        "datePublished": null,
+        "doiObject": null,
+        "fullTitle": {
+          "en": "C A short note on stable sorting",
+          "ru": "В Короткая заметка о стабильной сортировке"
+        },
+        "galleys": [],
+        "id": 4,
+        "locale": "ru",
+        "pages": null,
+        "prefix": {
+          "ru": "",
+          "en": ""
+        },
+        "primaryContactId": 7,
+        "pub-id::publisher-id": null,
+        "sectionId": 1,
+        "status": 1,
+        "submissionId": 4,
+        "subtitle": {
+          "ru": "",
+          "en": ""
+        },
+        "title": {
+          "en": "C A short note on stable sorting",
+          "ru": "В Короткая заметка о стабильной сортировке"
+        },
+        "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/4/version/4",
+        "version": 1
+      }
+    ],
+    "recommendationsIn": null,
+    "reviewAssignments": [],
+    "reviewRounds": [],
+    "reviewerSuggestions": [],
+    "reviewersNotAssigned": false,
+    "revisionsRequested": false,
+    "revisionsSubmitted": false,
+    "scheduledIn": null,
+    "stageId": 1,
+    "stages": [
+      {
+        "id": 1,
+        "label": "Submission",
+        "isActiveStage": true,
+        "editorAssigned": false,
+        "currentUserAssignedRoles": [
+          65536
+        ],
+        "uploadedFilesCount": null
+      },
+      {
+        "id": 3,
+        "label": "Review",
+        "isActiveStage": false,
+        "editorAssigned": false,
+        "currentUserAssignedRoles": [
+          65536
+        ],
+        "uploadedFilesCount": null
+      },
+      {
+        "id": 4,
+        "label": "Copyediting",
+        "isActiveStage": false,
+        "editorAssigned": false,
+        "currentUserAssignedRoles": [
+          65536
+        ],
+        "uploadedFilesCount": 0
+      },
+      {
+        "id": 5,
+        "label": "Production",
+        "isActiveStage": false,
+        "editorAssigned": false,
+        "currentUserAssignedRoles": [
+          65536
+        ],
+        "uploadedFilesCount": null
+      }
+    ],
+    "status": 1,
+    "statusLabel": "Queued",
+    "submissionProgress": "",
+    "urlAuthorWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/mySubmissions?workflowSubmissionId=4",
+    "urlEditorialWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/editorial?workflowSubmissionId=4",
+    "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/4",
+    "urlSubmissionWizard": "http://localhost:8080/vestnik-test/en/submission?id=4",
+    "urlWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/mySubmissions?workflowSubmissionId=4"
+  }
+}

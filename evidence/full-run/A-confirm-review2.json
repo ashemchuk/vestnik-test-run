@@ -1,0 +1,6 @@
+{
+  "http": 400,
+  "body": {
+    "error": "Only 'accept' and 'decline' are valid values"
+  }
+}

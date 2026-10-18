@@ -1,0 +1,33 @@
+{
+  "ID": "2p9wY2uMbetTgJUZ2MG5Y2",
+  "MessageID": "5f7a8607411fa39506a0e9b69105641b@example.test",
+  "From": {
+    "Name": "Тестовый Редактор",
+    "Address": "editor@example.test"
+  },
+  "To": [
+    {
+      "Name": "Четвёртый Рецензент",
+      "Address": "reviewer4@example.test"
+    }
+  ],
+  "Cc": [],
+  "Bcc": [],
+  "ReplyTo": [],
+  "ReturnPath": "editor@example.test",
+  "Subject": "Invitation to review",
+  "ListUnsubscribe": {
+    "Header": "",
+    "Links": [],
+    "Errors": "",
+    "HeaderPost": ""
+  },
+  "Date": "2026-10-12T01:47:54+07:00",
+  "Tags": [],
+  "Username": "",
+  "Text": "Please review A Testing duplicate detection in arrays. Reply by 2026-10-12; review by 2026-10-13. http://localhost:8080/vestnik-test/en/reviewer/submission?submissionId=2",
+  "HTML": "Please review A Testing duplicate detection in arrays. Reply by 2026-10-12; review by 2026-10-13. http://localhost:8080/vestnik-test/en/reviewer/submission?submissionId=2\r\n",
+  "Size": 982,
+  "Inline": [],
+  "Attachments": []
+}

@@ -1,0 +1,16 @@
+{
+  "http": 200,
+  "body": {
+    "_href": "http://localhost:8080/index/api/v1/submissions/6/decisions/15",
+    "dateDecided": "2026-10-12 02:09:25",
+    "decision": 8,
+    "description": "This submission will be declined for publication. No further review will be conducted and the submission will be archived.",
+    "editorId": 2,
+    "id": 15,
+    "label": "Decline Submission",
+    "reviewRoundId": null,
+    "round": null,
+    "stageId": 1,
+    "submissionId": 6
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "http": 200,
+  "body": {
+    "status": true,
+    "content": "",
+    "elementId": "0",
+    "events": [
+      {
+        "name": "dataChanged"
+      },
+      {
+        "name": "issuePublished",
+        "data": {
+          "id": 2,
+          "isGlobalEvent": true
+        }
+      }
+    ]
+  }
+}

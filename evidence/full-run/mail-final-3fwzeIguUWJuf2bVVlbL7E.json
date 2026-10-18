@@ -1,0 +1,33 @@
+{
+  "ID": "3fwzeIguUWJuf2bVVlbL7E",
+  "MessageID": "3ccd9e83e46b196bde4f61fbb0a20e0b@example.test",
+  "From": {
+    "Name": "Тестовый Редактор",
+    "Address": "editor@example.test"
+  },
+  "To": [
+    {
+      "Name": "Второй Автор",
+      "Address": "author2@example.test"
+    }
+  ],
+  "Cc": [],
+  "Bcc": [],
+  "ReplyTo": [],
+  "ReturnPath": "editor@example.test",
+  "Subject": "А — доработка с повторным рецензированием",
+  "ListUnsubscribe": {
+    "Header": "",
+    "Links": [],
+    "Errors": "",
+    "HeaderPost": ""
+  },
+  "Date": "2026-10-12T01:45:27+07:00",
+  "Tags": [],
+  "Username": "",
+  "Text": "The following email was sent to Тестовый Автор from Vestnik Test Journal regarding \"A Testing duplicate detection in arrays\".\n\nYou are receiving a copy of this notification because you are identified as an author of the submission. Any instructions in the message below are intended for the submitting author, Тестовый Автор, and no action is required of you at this time.\n\nПросим доработать статью. Отзывы рецензентов: {$allReviewerComments}",
+  "HTML": "<p>The following email was sent to Тестовый Автор from Vestnik Test Journal regarding \"A Testing duplicate detection in arrays\".</p>\r\n<p>You are receiving a copy of this notification because you are identified as an author of the submission. Any instructions in the message below are intended for the submitting author, Тестовый Автор, and no action is required of you at this time.</p>\r\n\r\nПросим доработать статью. Отзывы рецензентов: {$allReviewerComments}\r\n",
+  "Size": 1845,
+  "Inline": [],
+  "Attachments": []
+}

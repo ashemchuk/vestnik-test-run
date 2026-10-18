@@ -1,0 +1,14 @@
+{
+  "http": 200,
+  "body": {
+    "status": true,
+    "content": "",
+    "elementId": "0",
+    "events": [
+      {
+        "name": "setStep",
+        "data": 3
+      }
+    ]
+  }
+}

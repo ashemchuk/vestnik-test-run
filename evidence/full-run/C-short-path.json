@@ -1,0 +1,16 @@
+{
+  "http": 200,
+  "body": {
+    "_href": "http://localhost:8080/index/api/v1/submissions/4/decisions/12",
+    "dateDecided": "2026-10-12 01:58:07",
+    "decision": 17,
+    "description": "Accept this submission for publication and skip the review stage. This decision will send the submission to the copyediting stage.",
+    "editorId": 2,
+    "id": 12,
+    "label": "Accept and Skip Review",
+    "reviewRoundId": null,
+    "round": null,
+    "stageId": 1,
+    "submissionId": 4
+  }
+}

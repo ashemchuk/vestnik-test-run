@@ -1,0 +1,328 @@
+{
+  "http": 200,
+  "body": {
+    "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/2/publications/2",
+    "abstract": {
+      "en": "<p>A test paper with a formula and figure comparing pairwise search and a set.</p>",
+      "ru": "<p>Тестовая статья с формулой и рисунком. Сравниваются попарный поиск и множество.</p>"
+    },
+    "accessStatus": 0,
+    "authors": [
+      {
+        "affiliations": [],
+        "country": "RU",
+        "email": "author@example.test",
+        "familyName": {
+          "en": "Автор",
+          "ru": "Автор"
+        },
+        "fullName": "Тестовый Автор",
+        "givenName": {
+          "en": "Тестовый",
+          "ru": "Тестовый"
+        },
+        "id": 2,
+        "includeInBrowse": true,
+        "orcid": null,
+        "orcidAccessDenied": null,
+        "orcidAccessExpiresOn": null,
+        "orcidAccessScope": null,
+        "orcidAccessToken": null,
+        "orcidDisplayValue": null,
+        "orcidEmailToken": null,
+        "orcidIsVerified": null,
+        "orcidRefreshToken": null,
+        "orcidSandbox": null,
+        "orcidWorkPutCode": null,
+        "preferredPublicName": {
+          "ru": "",
+          "en": ""
+        },
+        "publicationId": 2,
+        "seq": 0,
+        "submissionLocale": "ru",
+        "userGroupId": 14,
+        "userGroupName": {
+          "en": "Author",
+          "ru": "Автор"
+        }
+      },
+      {
+        "affiliations": [],
+        "country": null,
+        "email": "author2@example.test",
+        "familyName": {
+          "en": "Автор",
+          "ru": "Автор"
+        },
+        "fullName": "Второй Автор",
+        "givenName": {
+          "en": "Второй",
+          "ru": "Второй"
+        },
+        "id": 4,
+        "includeInBrowse": true,
+        "orcid": null,
+        "orcidAccessDenied": null,
+        "orcidAccessExpiresOn": null,
+        "orcidAccessScope": null,
+        "orcidAccessToken": null,
+        "orcidDisplayValue": null,
+        "orcidEmailToken": null,
+        "orcidIsVerified": null,
+        "orcidRefreshToken": null,
+        "orcidSandbox": null,
+        "orcidWorkPutCode": null,
+        "preferredPublicName": {
+          "ru": "",
+          "en": ""
+        },
+        "publicationId": 2,
+        "seq": 1,
+        "submissionLocale": "ru",
+        "userGroupId": 14,
+        "userGroupName": {
+          "en": "Author",
+          "ru": "Автор"
+        }
+      },
+      {
+        "affiliations": [],
+        "country": null,
+        "email": "author3@example.test",
+        "familyName": {
+          "en": "Автор",
+          "ru": "Автор"
+        },
+        "fullName": "Третий Автор",
+        "givenName": {
+          "en": "Третий",
+          "ru": "Третий"
+        },
+        "id": 5,
+        "includeInBrowse": true,
+        "orcid": null,
+        "orcidAccessDenied": null,
+        "orcidAccessExpiresOn": null,
+        "orcidAccessScope": null,
+        "orcidAccessToken": null,
+        "orcidDisplayValue": null,
+        "orcidEmailToken": null,
+        "orcidIsVerified": null,
+        "orcidRefreshToken": null,
+        "orcidSandbox": null,
+        "orcidWorkPutCode": null,
+        "preferredPublicName": {
+          "ru": "",
+          "en": ""
+        },
+        "publicationId": 2,
+        "seq": 2,
+        "submissionLocale": "ru",
+        "userGroupId": 14,
+        "userGroupName": {
+          "en": "Author",
+          "ru": "Автор"
+        }
+      }
+    ],
+    "authorsString": "Тестовый Автор, Второй Автор, Третий Автор (Author)",
+    "authorsStringIncludeInBrowse": "Тестовый Автор, Второй Автор, Третий Автор (Author)",
+    "authorsStringShort": "Автор et al.",
+    "categoryIds": [],
+    "citations": [],
+    "citationsRaw": "",
+    "copyrightHolder": {
+      "ru": "",
+      "en": ""
+    },
+    "copyrightYear": null,
+    "coverImage": {
+      "ru": null,
+      "en": null
+    },
+    "coverage": {
+      "ru": "",
+      "en": ""
+    },
+    "crossrefplugin::registeredDoi": null,
+    "crossrefplugin::status": null,
+    "crossrefplugin_batchId": null,
+    "crossrefplugin_failedMsg": null,
+    "crossrefplugin_successMsg": null,
+    "dataAvailability": {
+      "ru": "",
+      "en": ""
+    },
+    "dataciteplugin::registeredDoi": null,
+    "dataciteplugin::status": null,
+    "datePublished": null,
+    "disciplines": {
+      "ru": [],
+      "en": []
+    },
+    "doiObject": null,
+    "fullTitle": {
+      "en": "A Testing duplicate detection in arrays",
+      "ru": "А Проверка поиска дубликатов в массивах"
+    },
+    "galleys": [
+      {
+        "crossrefplugin::registeredDoi": null,
+        "crossrefplugin::status": null,
+        "crossrefplugin_batchId": null,
+        "crossrefplugin_failedMsg": null,
+        "crossrefplugin_successMsg": null,
+        "dataciteplugin::registeredDoi": null,
+        "dataciteplugin::status": null,
+        "doiObject": null,
+        "file": {
+          "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/2/files/15",
+          "assocId": 2,
+          "assocType": 521,
+          "caption": null,
+          "copyrightOwner": null,
+          "createdAt": "2026-10-12 01:56:28",
+          "creator": {
+            "ru": "",
+            "en": ""
+          },
+          "credit": null,
+          "crossrefplugin::registeredDoi": null,
+          "crossrefplugin::status": null,
+          "crossrefplugin_batchId": null,
+          "crossrefplugin_failedMsg": null,
+          "crossrefplugin_successMsg": null,
+          "dataciteplugin::registeredDoi": null,
+          "dataciteplugin::status": null,
+          "dateCreated": null,
+          "dependentFiles": [],
+          "description": {
+            "ru": "",
+            "en": ""
+          },
+          "documentType": "pdf",
+          "fileId": 11,
+          "fileStage": 10,
+          "genreId": 1,
+          "genreIsDependent": false,
+          "genreIsSupplementary": false,
+          "genreName": {
+            "en": "Article Text",
+            "ru": "Текст статьи"
+          },
+          "id": 15,
+          "language": null,
+          "locale": null,
+          "mimetype": "application/pdf",
+          "name": {
+            "ru": "A-v2.pdf",
+            "en": ""
+          },
+          "path": "journals/1/articles/2/6acbdbdc39124.pdf",
+          "publisher": {
+            "ru": "",
+            "en": ""
+          },
+          "revisions": [],
+          "source": {
+            "ru": "",
+            "en": ""
+          },
+          "sourceSubmissionFileId": null,
+          "sponsor": {
+            "ru": "",
+            "en": ""
+          },
+          "subject": {
+            "ru": "",
+            "en": ""
+          },
+          "submissionId": 2,
+          "terms": null,
+          "updatedAt": "2026-10-12 01:56:28",
+          "uploaderUserId": 2,
+          "uploaderUserName": "editor",
+          "url": "http://localhost:8080/vestnik-test/$$$call$$$/api/file/file-api/download-file?submissionFileId=15&submissionId=2&stageId=5",
+          "viewable": null
+        },
+        "id": 2,
+        "isApproved": false,
+        "label": "PDF",
+        "locale": "ru",
+        "pub-id::publisher-id": null,
+        "publicationId": 2,
+        "seq": 0,
+        "submissionFileId": 15,
+        "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/2/version/2/2",
+        "urlRemote": null
+      }
+    ],
+    "hideAuthor": null,
+    "id": 2,
+    "issueId": null,
+    "keywords": {
+      "ru": [
+        {
+          "name": "алгоритмы"
+        },
+        {
+          "name": "дубликаты"
+        }
+      ],
+      "en": [
+        {
+          "name": "algorithms"
+        },
+        {
+          "name": "duplicates"
+        }
+      ]
+    },
+    "lastModified": "2026-10-12 01:42:38",
+    "licenseUrl": null,
+    "locale": "ru",
+    "pages": null,
+    "prefix": {
+      "ru": "",
+      "en": ""
+    },
+    "primaryContactId": 2,
+    "pub-id::publisher-id": null,
+    "rights": {
+      "ru": "",
+      "en": ""
+    },
+    "sectionId": 1,
+    "seq": 0,
+    "source": {
+      "ru": "",
+      "en": ""
+    },
+    "status": 1,
+    "subjects": {
+      "ru": [],
+      "en": []
+    },
+    "submissionId": 2,
+    "subtitle": {
+      "ru": "",
+      "en": ""
+    },
+    "supportingAgencies": {
+      "ru": [],
+      "en": []
+    },
+    "title": {
+      "en": "A Testing duplicate detection in arrays",
+      "ru": "А Проверка поиска дубликатов в массивах"
+    },
+    "type": {
+      "ru": "",
+      "en": ""
+    },
+    "urlPath": null,
+    "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/2/version/2",
+    "version": 1
+  }
+}

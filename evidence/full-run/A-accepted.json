@@ -1,0 +1,16 @@
+{
+  "http": 200,
+  "body": {
+    "_href": "http://localhost:8080/index/api/v1/submissions/2/decisions/9",
+    "dateDecided": "2026-10-12 01:50:11",
+    "decision": 2,
+    "description": "This submission will be accepted for publication and sent for copyediting.",
+    "editorId": 2,
+    "id": 9,
+    "label": "Accept Submission",
+    "reviewRoundId": 4,
+    "round": 2,
+    "stageId": 3,
+    "submissionId": 2
+  }
+}

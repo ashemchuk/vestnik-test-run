@@ -1,0 +1,5 @@
+from importlib.machinery import SourceFileLoader
+h=SourceFileLoader('run','/private/tmp/run-full.py').load_module();globals().update({k:getattr(h,k) for k in ['session','req','legacy','root','json']})
+import hashlib
+s=session('author');p=json.load(open(root/'evidence/full-run/A-galley-state.json'))['body'];r=s.get(p['galleys'][0]['file']['url']);(root/'evidence/full-run/A-author-proof-access.json').write_text(json.dumps({'http':r.status_code,'bytes':len(r.content),'sha256':hashlib.sha256(r.content).hexdigest(),'matchesFixture':r.content==(root/'test-data/full-run/A-v2.pdf').read_bytes()}))
+s=session('editor');legacy(s,'grid/issues/future-issue-grid/update-issue',{'title[ru]':'IV квартал 2026','title[en]':'Fourth quarter 2026','volume':1,'number':4,'year':2026,'showVolume':1,'showNumber':1,'showYear':1,'showTitle':1,'description[ru]':'<p>Тестовый выпуск для проверки полного сценария.</p>','description[en]':'<p>Test issue for the full workflow.</p>'},'issue-create');req(s,'GET','/issues',tag='issues-after-create')

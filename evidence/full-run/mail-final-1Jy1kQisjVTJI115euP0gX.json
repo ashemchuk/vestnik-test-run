@@ -1,0 +1,33 @@
+{
+  "ID": "1Jy1kQisjVTJI115euP0gX",
+  "MessageID": "5ba0d9cd25ec475df2f76d50f340bd3e@example.test",
+  "From": {
+    "Name": "Тестовый Редактор",
+    "Address": "editor@example.test"
+  },
+  "To": [
+    {
+      "Name": "Второй Автор",
+      "Address": "author2@example.test"
+    }
+  ],
+  "Cc": [],
+  "Bcc": [],
+  "ReplyTo": [],
+  "ReturnPath": "editor@example.test",
+  "Subject": "Б отклонена редакцией после двух отрицательных рецензий. Reviewer 1:Recommendation: Decline SubmissionРекомендация рецензента / Reviewer recommendationRejectОбоснование и замечания автору / Justification and comments for the authorОтклонить: в тестовом тексте недостаточно данных для проверки научного результата.Reviewer 2:Recommendation: Decline SubmissionРекомендация рецензента / Reviewer recommendationRejectОбоснование и замечания автору / Justification and comments for the authorОтклонить: в тестовом тексте недостаточно данных для проверки научного результата.",
+  "ListUnsubscribe": {
+    "Header": "",
+    "Links": [],
+    "Errors": "",
+    "HeaderPost": ""
+  },
+  "Date": "2026-10-12T01:59:13+07:00",
+  "Tags": [],
+  "Username": "",
+  "Text": "Б отклонена редакцией после двух отрицательных рецензий.\n\n*Reviewer 1:*\nRecommendation: Decline Submission\n\nРекомендация рецензента / Reviewer recommendation\n\nReject\n\nОбоснование и замечания автору / Justification and comments for the author\n\nОтклонить: в тестовом тексте недостаточно данных для проверки научного результата.\n\n*Reviewer 2:*\nRecommendation: Decline Submission\n\nРекомендация рецензента / Reviewer recommendation\n\nReject\n\nОбоснование и замечания автору / Justification and comments for the author\n\nОтклонить: в тестовом тексте недостаточно данных для проверки научного результата.",
+  "HTML": "Б отклонена редакцией после двух отрицательных рецензий. <p><strong>Reviewer 1:</strong><br>Recommendation: Decline Submission</p><p>Рекомендация рецензента / Reviewer recommendation</p><p>Reject</p><p>Обоснование и замечания автору / Justification and comments for the author</p><p>Отклонить: в тестовом тексте недостаточно данных для проверки научного результата.</p><p><strong>Reviewer 2:</strong><br>Recommendation: Decline Submission</p><p>Рекомендация рецензента / Reviewer recommendation</p><p>Reject</p><p>Обоснование и замечания автору / Justification and comments for the author</p><p>Отклонить: в тестовом тексте недостаточно данных для проверки научного результата.</p>\r\n",
+  "Size": 5549,
+  "Inline": [],
+  "Attachments": []
+}

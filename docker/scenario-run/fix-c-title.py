@@ -1,0 +1,2 @@
+from importlib.machinery import SourceFileLoader
+h=SourceFileLoader('run','/private/tmp/run-full.py').load_module();s=h.session('editor');h.req(s,'PUT','/submissions/4/publications/4',{'title':{'ru':'В Короткая заметка о двоичном поиске','en':'C A short note on binary search'},'abstract':{'ru':'<p>Короткая тестовая заметка: двоичный поиск в отсортированном массиве требует O(log n) сравнений.</p>','en':'<p>A short test note: binary search in a sorted array requires O(log n) comparisons.</p>'}},'C-title-corrected')

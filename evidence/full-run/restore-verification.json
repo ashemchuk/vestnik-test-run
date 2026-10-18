@@ -1,0 +1,50 @@
+{
+  "8080": {
+    "issue": {
+      "http": 200,
+      "bytes": 9840,
+      "sha256": "9420a9b669301c91c41679ee0d3affcbb92747a85dcef88604f224945ebe593b",
+      "bothArticles": true
+    },
+    "A": {
+      "http": 200,
+      "bytes": 13823,
+      "sha256": "fed6f6b6dae9796e621201a43124baa444ead280ddcd170d73712119188dfc45"
+    },
+    "C": {
+      "http": 200,
+      "bytes": 12908,
+      "sha256": "469eb65004e9f3d55a10cf5e8460df65fc0653fe6b45f4e2b582ce1ebed12729"
+    },
+    "pdf": {
+      "http": 200,
+      "bytes": 39646,
+      "sha256": "be4ff5d96179968bee54dc67afc9b1cfcdcf6bfb2b599de9adb9bb92e959a2d2",
+      "matchesFixture": true
+    }
+  },
+  "8081": {
+    "issue": {
+      "http": 200,
+      "bytes": 9840,
+      "sha256": "25d7dc1d01fa696ecd2a702e3fa4f9de986e8c4524462b86a7a659aa5b4bdb1b",
+      "bothArticles": true
+    },
+    "A": {
+      "http": 200,
+      "bytes": 13823,
+      "sha256": "6ccf7dd3ffed88cbe76a904d66c3e8b272e7d735643ec25ee44555c7b121310e"
+    },
+    "C": {
+      "http": 200,
+      "bytes": 12908,
+      "sha256": "9ba28c6173af9c31a91040a9497643b5a3bb47598d4ea449480deb9d12289e83"
+    },
+    "pdf": {
+      "http": 200,
+      "bytes": 39646,
+      "sha256": "be4ff5d96179968bee54dc67afc9b1cfcdcf6bfb2b599de9adb9bb92e959a2d2",
+      "matchesFixture": true
+    }
+  }
+}

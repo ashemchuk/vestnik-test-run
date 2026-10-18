@@ -1,0 +1,1300 @@
+{
+  "total": 52,
+  "unread": 43,
+  "count": 50,
+  "messages_count": 52,
+  "messages_unread": 43,
+  "start": 0,
+  "tags": [],
+  "messages": [
+    {
+      "ID": "2p9wY2uMbetTgJUZ2MG5Y2",
+      "MessageID": "5f7a8607411fa39506a0e9b69105641b@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Редактор",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Четвёртый Рецензент",
+          "Address": "reviewer4@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Invitation to review",
+      "Created": "2026-10-11T18:47:55.022Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 982,
+      "Attachments": 0,
+      "Snippet": "Please review A Testing duplicate detection in arrays. Reply by 2026-10-12; review by 2026-10-13. http://localhost:8080/vestnik-test/en/reviewer/submission?submissionId=2"
+    },
+    {
+      "ID": "1DvB24XFQPAWtZ6lQ07o4p",
+      "MessageID": "c5307e274364a1352565e31f04ecea16@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Редактор",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Второй Рецензент",
+          "Address": "reviewer2@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Invitation to review",
+      "Created": "2026-10-11T18:47:54.674Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 964,
+      "Attachments": 0,
+      "Snippet": "Please review A Testing duplicate detection in arrays. Reply by 2026-10-12; review by 2026-10-13. http://localhost:8080/vestnik-test/en/reviewer/submission?submissionId=2"
+    },
+    {
+      "ID": "66hZYmiRmmKnaozpuQ7IdW",
+      "MessageID": "cfef7b9ae922816e87328058409b65e6@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Редактор",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Третий Автор",
+          "Address": "author3@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "А направлена во второй раунд после исправлений.",
+      "Created": "2026-10-11T18:46:55.218Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1854,
+      "Attachments": 0,
+      "Snippet": "The following email was sent to Тестовый Автор from Vestnik Test Journal regarding \"A Testing duplicate detection in arrays\". You are receiving a copy of this notification because you are..."
+    },
+    {
+      "ID": "0tqCmnesoEmL3mJsZOBUmc",
+      "MessageID": "ed7d292b1810ba65551f5d2cdc464152@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Редактор",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Второй Автор",
+          "Address": "author2@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "А направлена во второй раунд после исправлений.",
+      "Created": "2026-10-11T18:46:55.146Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1854,
+      "Attachments": 0,
+      "Snippet": "The following email was sent to Тестовый Автор from Vestnik Test Journal regarding \"A Testing duplicate detection in arrays\". You are receiving a copy of this notification because you are..."
+    },
+    {
+      "ID": "1YSiqJD5OT7o1HOETmOLSY",
+      "MessageID": "20dc40525027085baaf181336c97c4b1@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Редактор",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Автор",
+          "Address": "author@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "А направлена во второй раунд после исправлений.",
+      "Created": "2026-10-11T18:46:55.038Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1323,
+      "Attachments": 0,
+      "Snippet": "А направлена во второй раунд после исправлений."
+    },
+    {
+      "ID": "0hn6SLdoYQepCgzZGHbAkW",
+      "MessageID": "e4a1cb3476bfb13cba3761a77ea800d0@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Автор",
+        "Address": "author@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Редактор",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "А — ответ на рецензии v2",
+      "Created": "2026-10-11T18:46:53.867Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 2291,
+      "Attachments": 0,
+      "Snippet": "Ответ на рецензии 1. Уточнены граничные случаи. 2. Добавлены псевдокод и оценка памяти. 3. Формула и график пров..."
+    },
+    {
+      "ID": "1Og0fDYsCqfFmCmSkedSZX",
+      "MessageID": "36baf63455348f66824d0c126365baac@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Автор",
+        "Address": "author@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Редактор",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [
+        {
+          "Name": "Тестовая редакция",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Subject": "Revised Version Uploaded",
+      "Created": "2026-10-11T18:45:29.636Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1602,
+      "Attachments": 0,
+      "Snippet": "Dear Тестовый Редактор, The author has uploaded revisions for the submission, Автор et al. — A Testing duplicate detection in arrays. As an assigned editor, we ask that you logi..."
+    },
+    {
+      "ID": "7Ui72EGf1qxmMBJfwx3pzT",
+      "MessageID": "2d5cd59e8d1dcfbfbf5cf9b09a1ac94c@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Редактор",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Третий Автор",
+          "Address": "author3@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "А — доработка с повторным рецензированием",
+      "Created": "2026-10-11T18:45:28.003Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1845,
+      "Attachments": 0,
+      "Snippet": "The following email was sent to Тестовый Автор from Vestnik Test Journal regarding \"A Testing duplicate detection in arrays\". You are receiving a copy of this notification because you are..."
+    },
+    {
+      "ID": "3fwzeIguUWJuf2bVVlbL7E",
+      "MessageID": "3ccd9e83e46b196bde4f61fbb0a20e0b@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Редактор",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Второй Автор",
+          "Address": "author2@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "А — доработка с повторным рецензированием",
+      "Created": "2026-10-11T18:45:27.926Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1845,
+      "Attachments": 0,
+      "Snippet": "The following email was sent to Тестовый Автор from Vestnik Test Journal regarding \"A Testing duplicate detection in arrays\". You are receiving a copy of this notification because you are..."
+    },
+    {
+      "ID": "1QDmaAFxPqervhYnIsE7PZ",
+      "MessageID": "6c34a796559118405d35fe5cbf781306@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Редактор",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Автор",
+          "Address": "author@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "А — доработка с повторным рецензированием",
+      "Created": "2026-10-11T18:45:27.825Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 3077,
+      "Attachments": 0,
+      "Snippet": "Просим доработать статью. Отзывы рецензентов: Reviewer 1: Recommendation: Revisions Required Рекомендация рецензента / Reviewer recommendat..."
+    },
+    {
+      "ID": "5LbdbpKctTNgHLYlc2nr5M",
+      "MessageID": "0948911f649304c429ccf89271870fbe@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовая редакция",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Редактор",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Review complete: Четвёртый Рецензент recommends Accept Submission for #2 Автор et al. — \"A Testing duplicate detection in arrays\"",
+      "Created": "2026-10-11T18:44:51.402Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 2509,
+      "Attachments": 0,
+      "Snippet": "Dear Тестовый Редактор, Четвёртый Рецензент completed the following review: #2 Автор et al. — \"A Testing duplicate detection in arrays\" Recommendation: Accept ..."
+    },
+    {
+      "ID": "2mJoaesYnNkDHvfP1aw6OH",
+      "MessageID": "09617bfb5e581e97ec47f5844c4e5de3@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовая редакция",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Редактор",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Review complete: Второй Рецензент recommends Revisions Required for #2 Автор et al. — \"A Testing duplicate detection in arrays\"",
+      "Created": "2026-10-11T18:44:33.968Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 2472,
+      "Attachments": 0,
+      "Snippet": "Dear Тестовый Редактор, Второй Рецензент completed the following review: #2 Автор et al. — \"A Testing duplicate detection in arrays\" Recommendation: Revisions Req..."
+    },
+    {
+      "ID": "1GdY04M7OcpoguMHcwbmGS",
+      "MessageID": "7c53ce397f5d80c2001eb45a61c09fc3@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Редактор",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Третий Рецензент",
+          "Address": "reviewer3@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Request for Review Cancelled",
+      "Created": "2026-10-11T18:44:06.226Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1103,
+      "Attachments": 0,
+      "Snippet": "Приглашение отменено: ответ не получен, назначена замена."
+    },
+    {
+      "ID": "43mgd0TsihgIwCw0wLbcAd",
+      "MessageID": "f9648af76f5f84cbc866d6995cb563a3@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Четвёртый Рецензент",
+        "Address": "reviewer4@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Редактор",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [
+        {
+          "Name": "Четвёртый Рецензент",
+          "Address": "reviewer4@example.test"
+        }
+      ],
+      "Subject": "Review accepted: Четвёртый Рецензент accepted review assignment for #2 Автор et al. — \"A Testing duplicate detection in arrays\"",
+      "Created": "2026-10-11T18:42:09.116Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 2156,
+      "Attachments": 0,
+      "Snippet": "Dear Тестовый Редактор, Четвёртый Рецензент has accepted the following review: #2 Автор et al. — \"A Testing duplicate detection in arrays\" Type: Anonymous Revi..."
+    },
+    {
+      "ID": "59N8K28oL9elLwVoNLRoMc",
+      "MessageID": "5ea1c3c2f03ebe30e7fc3390c5717c2d@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Редактор",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Четвёртый Рецензент",
+          "Address": "reviewer4@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Invitation to review",
+      "Created": "2026-10-11T18:41:35.303Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 982,
+      "Attachments": 0,
+      "Snippet": "Please review A Testing duplicate detection in arrays. Reply by 2026-10-12; review by 2026-10-13. http://localhost:8080/vestnik-test/en/reviewer/submission?submissionId=2"
+    },
+    {
+      "ID": "1dbbL9q9XyowGzAAZy70qc",
+      "MessageID": "34c5437b658e268495eaa408206ad0a4@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Второй Рецензент",
+        "Address": "reviewer2@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Редактор",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [
+        {
+          "Name": "Второй Рецензент",
+          "Address": "reviewer2@example.test"
+        }
+      ],
+      "Subject": "Review accepted: Второй Рецензент accepted review assignment for #2 Автор et al. — \"A Testing duplicate detection in arrays\"",
+      "Created": "2026-10-11T18:41:33.6Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 2084,
+      "Attachments": 0,
+      "Snippet": "Dear Тестовый Редактор, Второй Рецензент has accepted the following review: #2 Автор et al. — \"A Testing duplicate detection in arrays\" Type: Anonymous Reviewer/A..."
+    },
+    {
+      "ID": "4OrN2cwAS9JYyC7wGTSQay",
+      "MessageID": "f66fa102db08a77fbdf762423650e453@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Первый Рецензент",
+        "Address": "reviewer1@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Редактор",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [
+        {
+          "Name": "Первый Рецензент",
+          "Address": "reviewer1@example.test"
+        }
+      ],
+      "Subject": "Unable to Review",
+      "Created": "2026-10-11T18:41:32.374Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1171,
+      "Attachments": 0,
+      "Snippet": "Не могу выполнить рецензию в заданный срок."
+    },
+    {
+      "ID": "1NbFb3R5R7oKn9f5yDOt97",
+      "MessageID": "0b05430ed719acc80a0f1259a8dc5888@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Редактор",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Третий Рецензент",
+          "Address": "reviewer3@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Invitation to review",
+      "Created": "2026-10-11T18:40:31.226Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 964,
+      "Attachments": 0,
+      "Snippet": "Please review A Testing duplicate detection in arrays. Reply by 2026-10-12; review by 2026-10-13. http://localhost:8080/vestnik-test/en/reviewer/submission?submissionId=2"
+    },
+    {
+      "ID": "269xXqqPtA8mCkCCdO11om",
+      "MessageID": "fefbaf5443f35123050062ace16dd99d@example.test",
+      "Read": true,
+      "From": {
+        "Name": "Тестовый Редактор",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Второй Рецензент",
+          "Address": "reviewer2@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Invitation to review",
+      "Created": "2026-10-11T18:40:30.809Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 964,
+      "Attachments": 0,
+      "Snippet": "Please review A Testing duplicate detection in arrays. Reply by 2026-10-12; review by 2026-10-13. http://localhost:8080/vestnik-test/en/reviewer/submission?submissionId=2"
+    },
+    {
+      "ID": "25N8bjoyFprFqqHRT2Bd5x",
+      "MessageID": "64d77e34cd94f71c8e4b234c63cc9d5c@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Редактор",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Первый Рецензент",
+          "Address": "reviewer1@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Invitation to review",
+      "Created": "2026-10-11T18:40:30.425Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 964,
+      "Attachments": 0,
+      "Snippet": "Please review A Testing duplicate detection in arrays. Reply by 2026-10-12; review by 2026-10-13. http://localhost:8080/vestnik-test/en/reviewer/submission?submissionId=2"
+    },
+    {
+      "ID": "28jsjZiuZg8m8HEFOKruQh",
+      "MessageID": "5d92282dfd1a024b425e8791a7526600@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Редактор",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Третий Автор",
+          "Address": "author3@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Оформление исправлено. А передана на двойное анонимное рецензирование.",
+      "Created": "2026-10-11T18:40:29.545Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 2163,
+      "Attachments": 0,
+      "Snippet": "The following email was sent to Тестовый Автор from Vestnik Test Journal regarding \"A Testing duplicate detection in arrays\". You are receiving a copy of this notification because you are..."
+    },
+    {
+      "ID": "1z0pbmBV3W473qni1hX9kv",
+      "MessageID": "53cc215b2acd7690cc3b3340599e4432@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Редактор",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Второй Автор",
+          "Address": "author2@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Оформление исправлено. А передана на двойное анонимное рецензирование.",
+      "Created": "2026-10-11T18:40:29.461Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 2163,
+      "Attachments": 0,
+      "Snippet": "The following email was sent to Тестовый Автор from Vestnik Test Journal regarding \"A Testing duplicate detection in arrays\". You are receiving a copy of this notification because you are..."
+    },
+    {
+      "ID": "5Q7C2zOiB6q7rHgGb8UTvg",
+      "MessageID": "3919bece050c998e127307f41b2fe422@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Редактор",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Автор",
+          "Address": "author@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Оформление исправлено. А передана на двойное анонимное рецензирование.",
+      "Created": "2026-10-11T18:40:29.353Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1632,
+      "Attachments": 0,
+      "Snippet": "Оформление исправлено. А передана на двойное анонимное рецензирование."
+    },
+    {
+      "ID": "2FLCoq4F2USYDwIfI6ggeM",
+      "MessageID": "065381d2881d9cd9143245e0ce880710@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Автор",
+        "Address": "author@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Редактор",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Re: Входная проверка А — исправить оформление",
+      "Created": "2026-10-11T18:40:11.326Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 69494,
+      "Attachments": 1,
+      "Snippet": "Оформление исправлено: Times New Roman 11. Исправленная рукопись приложена. — Reply to this comment at #2 Автор et al. or unsubscribe from email..."
+    },
+    {
+      "ID": "00OINQsmj4vcT6VnMCXVev",
+      "MessageID": "59abbf2c205466521127a86ac2ec7ff9@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Автор",
+        "Address": "author@example.test"
+      },
+      "To": [
+        {
+          "Name": "admin admin",
+          "Address": "admin@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Re: Входная проверка А — исправить оформление",
+      "Created": "2026-10-11T18:40:11.219Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 69377,
+      "Attachments": 1,
+      "Snippet": "Оформление исправлено: Times New Roman 11. Исправленная рукопись приложена. — Reply to this comment at #2 Автор et al. or unsubscribe from email..."
+    },
+    {
+      "ID": "6y5g8zjHW9pMLXanTx5UXO",
+      "MessageID": "af675537d31f9843446499d8d0e87bfc@example.test",
+      "Read": false,
+      "From": {
+        "Name": "admin admin",
+        "Address": "admin@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Автор",
+          "Address": "author@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Входная проверка А — исправить оформление",
+      "Created": "2026-10-11T18:36:02.867Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 2307,
+      "Attachments": 0,
+      "Snippet": "Просим заменить размер шрифта 14 на Times New Roman 11 и загрузить исправленную рукопись. На рецензирование пока не п..."
+    },
+    {
+      "ID": "4lLAa6Td16dcnHEqhd7lji",
+      "MessageID": "4836b0f4160aa6d09dae3b70f7979eba@example.test",
+      "Read": false,
+      "From": {
+        "Name": "admin admin",
+        "Address": "admin@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Редактор",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Входная проверка А — исправить оформление",
+      "Created": "2026-10-11T18:36:02.764Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 2327,
+      "Attachments": 0,
+      "Snippet": "Просим заменить размер шрифта 14 на Times New Roman 11 и загрузить исправленную рукопись. На рецензирование пока не п..."
+    },
+    {
+      "ID": "5510XyGTUSHdX4EtrqczpN",
+      "MessageID": "7e66e1cbd6543958b9020744ba9d054b@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовая редакция",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Второй Автор",
+          "Address": "author2@example.test"
+        },
+        {
+          "Name": "Третий Автор",
+          "Address": "author3@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Submission confirmation",
+      "Created": "2026-10-11T18:34:10.439Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 2300,
+      "Attachments": 0,
+      "Snippet": "Dear Второй Автор, Третий Автор, You have been named as a co-author on a submission to Vestnik Test Journal. The submitter, Тестовый Автор, provided the following de..."
+    },
+    {
+      "ID": "6raMa7PiLTXZpC801RwPYG",
+      "MessageID": "e00fbd60ee241512426d85186f86fddb@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовая редакция",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Автор",
+          "Address": "author@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Thank you for your submission to Vestnik Test Journal",
+      "Created": "2026-10-11T18:34:10.323Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 2243,
+      "Attachments": 0,
+      "Snippet": "Dear Тестовый Автор, Thank you for your submission to Vestnik Test Journal. We have received your submission, \"A Testing duplicate detection in arrays\", and a member of our editorial team..."
+    },
+    {
+      "ID": "14d85ID0NOz6xiF8A8fRzo",
+      "MessageID": "3278e5c11b3a25557d2097e47690fec4@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовая редакция",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Главный Редактор",
+          "Address": "chiefeditor@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "A new submission needs an editor to be assigned: \"A Testing duplicate detection in arrays\"",
+      "Created": "2026-10-11T18:34:10.209Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1918,
+      "Attachments": 0,
+      "Snippet": "Dear Главный Редактор, The following submission has been submitted and there is no editor assigned. \"A Testing duplicate detection in arrays\" Тестовый Автор, Тестов..."
+    },
+    {
+      "ID": "2mTvqgECQIKq8xs2caxKzr",
+      "MessageID": "007e28af9ba353e5fada5e1651c3ee7e@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовая редакция",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Редактор",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "A new submission needs an editor to be assigned: \"A Testing duplicate detection in arrays\"",
+      "Created": "2026-10-11T18:34:10.111Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1920,
+      "Attachments": 0,
+      "Snippet": "Dear Тестовый Редактор, The following submission has been submitted and there is no editor assigned. \"A Testing duplicate detection in arrays\" Тестовый Автор, Тесто..."
+    },
+    {
+      "ID": "5PnGimYilk1KyIpFrU83gl",
+      "MessageID": "f1b205bfa4a55090505c5fc8f2561968@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовая редакция",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "admin admin",
+          "Address": "admin@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "A new submission needs an editor to be assigned: \"A Testing duplicate detection in arrays\"",
+      "Created": "2026-10-11T18:34:09.999Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1714,
+      "Attachments": 0,
+      "Snippet": "Dear admin admin, The following submission has been submitted and there is no editor assigned. \"A Testing duplicate detection in arrays\" Тестовый Автор, Тестовый Автор, Вт..."
+    },
+    {
+      "ID": "7St5kC3AvmmeuJFsSXHp8I",
+      "MessageID": "cd7c29092157b39d71c1cf0c56be8a03@example.test",
+      "Read": true,
+      "From": {
+        "Name": "admin admin",
+        "Address": "admin@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Автор",
+          "Address": "author@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Next steps for publishing your submission",
+      "Created": "2026-10-07T14:02:42.047Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1339,
+      "Attachments": 0,
+      "Snippet": "Dear Тестовый Автор, I am writing from Vestnik Test Journal to let you know that the editing of your submission, \"Comparison of duplicate detection algorithms\", is complete. Your submissi..."
+    },
+    {
+      "ID": "1JlDcEfG5BWVEmLhp0ffTv",
+      "MessageID": "2277e66b566239f6d9e4591bda329747@example.test",
+      "Read": true,
+      "From": {
+        "Name": "admin admin",
+        "Address": "admin@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Автор",
+          "Address": "author@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Your submission has been accepted to Vestnik Test Journal",
+      "Created": "2026-10-07T14:01:45.458Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1832,
+      "Attachments": 0,
+      "Snippet": "Dear Тестовый Автор, I am pleased to inform you that we have decided to accept your submission without further revision. After careful review, we found your submission, Comparison of dupl..."
+    },
+    {
+      "ID": "2pDruCItz0rDDk1v1vS90t",
+      "MessageID": "6315f8628c33dae0a13b27720cb28db4@example.test",
+      "Read": false,
+      "From": {
+        "Name": "admin admin",
+        "Address": "admin@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Автор",
+          "Address": "author@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Your submission has been sent for another round of review",
+      "Created": "2026-10-07T13:59:44.369Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1259,
+      "Attachments": 0,
+      "Snippet": "Dear Тестовый Автор, Your revised submission, \"Comparison of duplicate detection algorithms\", has been sent for a new round of peer review. You will hear from us with feedback from the re..."
+    },
+    {
+      "ID": "26JjgQHaL3lQcciVhoftiE",
+      "MessageID": "b6c5e6659082900782221840c9295289@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Автор",
+        "Address": "author@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Редактор",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Ответ на замечания — версия 2",
+      "Created": "2026-10-07T13:59:10.349Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 4168,
+      "Attachments": 0,
+      "Snippet": "Ответ на замечания по статье №1 Рецензент 1 1. Добавлены псевдокоды двух алгоритмов на странице 2. 2. Уточнены п..."
+    },
+    {
+      "ID": "3yn06ZoVk70wgTIpWsrRD7",
+      "MessageID": "1c748ac126f5fc4e76ce75da7fd1a0ee@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Автор",
+        "Address": "author@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Редактор",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [
+        {
+          "Name": "Тестовая редакция",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Subject": "Revised Version Uploaded",
+      "Created": "2026-10-07T13:57:32.527Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1599,
+      "Attachments": 0,
+      "Snippet": "Dear Тестовый Редактор, The author has uploaded revisions for the submission, Автор — Comparison of duplicate detection algorithms. As an assigned editor, we ask that you login ..."
+    },
+    {
+      "ID": "5Urk6vCpppWqsxz80IXUi6",
+      "MessageID": "1ffea0b6b4a094a882f06aee37484255@example.test",
+      "Read": true,
+      "From": {
+        "Name": "admin admin",
+        "Address": "admin@example.test"
+      },
+      "To": [
+        {
+          "Name": "Второй Рецензент",
+          "Address": "reviewer2@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Thank you for your review",
+      "Created": "2026-10-07T13:53:11.478Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1923,
+      "Attachments": 0,
+      "Snippet": "Dear Второй Рецензент, Thank you for completing your review of the submission, \"Comparison of duplicate detection algorithms\", for Vestnik Test Journal. We appreciate your time and expe..."
+    },
+    {
+      "ID": "7IsXA2v2XSk02vV01cXQJT",
+      "MessageID": "9825edcebf561e6185eb0d17bd8faa40@example.test",
+      "Read": true,
+      "From": {
+        "Name": "admin admin",
+        "Address": "admin@example.test"
+      },
+      "To": [
+        {
+          "Name": "Первый Рецензент",
+          "Address": "reviewer1@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Thank you for your review",
+      "Created": "2026-10-07T13:53:11.377Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1923,
+      "Attachments": 0,
+      "Snippet": "Dear Первый Рецензент, Thank you for completing your review of the submission, \"Comparison of duplicate detection algorithms\", for Vestnik Test Journal. We appreciate your time and expe..."
+    },
+    {
+      "ID": "6dcJTGcwW8yGmrocgWBZnb",
+      "MessageID": "c0eafe058916807cc52aa1283676ad2f@example.test",
+      "Read": true,
+      "From": {
+        "Name": "admin admin",
+        "Address": "admin@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Автор",
+          "Address": "author@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Your submission has been reviewed - please revise and resubmit",
+      "Created": "2026-10-07T13:53:11.274Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 5508,
+      "Attachments": 0,
+      "Snippet": "Уважаемый Тестовый Автор! По статье «Сравнение алгоритмов поиска дубликатов» принято решение: доработка с п..."
+    },
+    {
+      "ID": "6zbnpNBcACANbMz1F1ZPrs",
+      "MessageID": "05456f9df5f161a19cb51ae0281e2277@example.test",
+      "Read": true,
+      "From": {
+        "Name": "Тестовая редакция",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Редактор",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Review complete: Второй Рецензент recommends Revisions Required for #1 Автор — \"Comparison of duplicate detection algorithms\"",
+      "Created": "2026-10-07T13:49:51.646Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 2468,
+      "Attachments": 0,
+      "Snippet": "Dear Тестовый Редактор, Второй Рецензент completed the following review: #1 Автор — \"Comparison of duplicate detection algorithms\" Recommendation: Revisions Requi..."
+    },
+    {
+      "ID": "2lum0B5f6EW9Sv3otGw4MH",
+      "MessageID": "098287ee9f7937ac97ae6286678f6690@example.test",
+      "Read": true,
+      "From": {
+        "Name": "Второй Рецензент",
+        "Address": "reviewer2@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Редактор",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [
+        {
+          "Name": "Второй Рецензент",
+          "Address": "reviewer2@example.test"
+        }
+      ],
+      "Subject": "Review accepted: Второй Рецензент accepted review assignment for #1 Автор — \"Comparison of duplicate detection algorithms\"",
+      "Created": "2026-10-07T13:48:28.807Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 2080,
+      "Attachments": 0,
+      "Snippet": "Dear Тестовый Редактор, Второй Рецензент has accepted the following review: #1 Автор — \"Comparison of duplicate detection algorithms\" Type: Anonymous Reviewer/Ano..."
+    },
+    {
+      "ID": "5WeljasZnklgcPxbIY3F5w",
+      "MessageID": "377b46e4f65c8ee58c095e8256a97930@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовая редакция",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Редактор",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Review complete: Первый Рецензент recommends Resubmit for Review for #1 Автор — \"Comparison of duplicate detection algorithms\"",
+      "Created": "2026-10-07T13:47:31.377Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 2470,
+      "Attachments": 0,
+      "Snippet": "Dear Тестовый Редактор, Первый Рецензент completed the following review: #1 Автор — \"Comparison of duplicate detection algorithms\" Recommendation: Resubmit for Re..."
+    },
+    {
+      "ID": "34lSVYYApVcIjRb5XSpSmr",
+      "MessageID": "bfe2411a75846b1d594642aff05d8896@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Первый Рецензент",
+        "Address": "reviewer1@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Редактор",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [
+        {
+          "Name": "Первый Рецензент",
+          "Address": "reviewer1@example.test"
+        }
+      ],
+      "Subject": "Review accepted: Первый Рецензент accepted review assignment for #1 Автор — \"Comparison of duplicate detection algorithms\"",
+      "Created": "2026-10-07T13:44:32.694Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 2080,
+      "Attachments": 0,
+      "Snippet": "Dear Тестовый Редактор, Первый Рецензент has accepted the following review: #1 Автор — \"Comparison of duplicate detection algorithms\" Type: Anonymous Reviewer/Ano..."
+    },
+    {
+      "ID": "5cJwEebbCKcCT7kgQmWr86",
+      "MessageID": "1ea7fbebd6c7dc4e24484f504ce52c8c@example.test",
+      "Read": true,
+      "From": {
+        "Name": "admin admin",
+        "Address": "admin@example.test"
+      },
+      "To": [
+        {
+          "Name": "Второй Рецензент",
+          "Address": "reviewer2@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Invitation to review",
+      "Created": "2026-10-07T13:41:39.687Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 2092,
+      "Attachments": 0,
+      "Snippet": "Dear Второй Рецензент, I believe that you would serve as an excellent reviewer for a submission to Vestnik Test Journal. The submission's title and abstract are below, and I hope that y..."
+    },
+    {
+      "ID": "3BOYbx4773cyyCugeiFYmj",
+      "MessageID": "63f5dd58f6071811db0d265639267fd7@example.test",
+      "Read": false,
+      "From": {
+        "Name": "admin admin",
+        "Address": "admin@example.test"
+      },
+      "To": [
+        {
+          "Name": "Первый Рецензент",
+          "Address": "reviewer1@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Invitation to review",
+      "Created": "2026-10-07T13:41:16.281Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 2092,
+      "Attachments": 0,
+      "Snippet": "Dear Первый Рецензент, I believe that you would serve as an excellent reviewer for a submission to Vestnik Test Journal. The submission's title and abstract are below, and I hope that y..."
+    },
+    {
+      "ID": "6OP55AP71S9RWgekxMOSWN",
+      "MessageID": "35eebf2496a26a45a1ca68331ef1aabe@example.test",
+      "Read": false,
+      "From": {
+        "Name": "admin admin",
+        "Address": "admin@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Автор",
+          "Address": "author@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Your submission has been sent for review",
+      "Created": "2026-10-07T13:40:48.183Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1839,
+      "Attachments": 0,
+      "Snippet": "Dear Тестовый Автор, I am pleased to inform you that an editor has reviewed your submission, \"Comparison of duplicate detection algorithms\", and has decided to send it for peer review. An..."
+    },
+    {
+      "ID": "2yuO1y5Ux4UtyTScp7FEfu",
+      "MessageID": "96aed8f0f63c398150771a941c296f01@example.test",
+      "Read": false,
+      "From": {
+        "Name": "admin admin",
+        "Address": "admin@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Редактор",
+          "Address": "editor@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "You have been assigned as an editor on a submission to Vestnik Test Journal",
+      "Created": "2026-10-07T13:40:17.399Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 3083,
+      "Attachments": 0,
+      "Snippet": "Dear Тестовый Редактор, The following submission has been assigned to you to see through the editorial process. Comparison of duplicate detection algorithms Тестовый Авто..."
+    },
+    {
+      "ID": "7FnkIscN9fjYD0U1Azucoz",
+      "MessageID": "47fafa7c9f89b28ff21664a2ebadefe5@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовый Автор",
+        "Address": "author@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Автор",
+          "Address": "author@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Comments for the Editor",
+      "Created": "2026-10-07T13:36:29.245Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 1981,
+      "Attachments": 0,
+      "Snippet": "Тестовая статья для локального прогона редакционного процесса. DOCX и PDF содержат одинаковую обезличенную рук..."
+    },
+    {
+      "ID": "0DGoim133PQ12snivFOKdb",
+      "MessageID": "e61cf921e9b42f3fc9177268a2291a83@example.test",
+      "Read": false,
+      "From": {
+        "Name": "Тестовая редакция",
+        "Address": "editor@example.test"
+      },
+      "To": [
+        {
+          "Name": "Тестовый Автор",
+          "Address": "author@example.test"
+        }
+      ],
+      "Cc": null,
+      "Bcc": null,
+      "ReplyTo": [],
+      "Subject": "Thank you for your submission to Vestnik Test Journal",
+      "Created": "2026-10-07T13:36:29.142Z",
+      "Username": "",
+      "Tags": [],
+      "Size": 2247,
+      "Attachments": 0,
+      "Snippet": "Dear Тестовый Автор, Thank you for your submission to Vestnik Test Journal. We have received your submission, \"Comparison of duplicate detection algorithms\", and a member of our editorial..."
+    }
+  ]
+}

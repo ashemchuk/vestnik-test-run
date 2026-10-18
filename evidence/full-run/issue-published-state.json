@@ -1,0 +1,254 @@
+{
+  "http": 200,
+  "body": {
+    "_href": "http://localhost:8080/vestnik-test/api/v1/issues/2",
+    "accessStatus": 1,
+    "articles": [
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/2",
+        "contextId": 1,
+        "crossrefplugin::registeredDoi": null,
+        "crossrefplugin::status": null,
+        "crossrefplugin_batchId": null,
+        "crossrefplugin_failedMsg": null,
+        "crossrefplugin_successMsg": null,
+        "currentPublicationId": 2,
+        "dataciteplugin::registeredDoi": null,
+        "dataciteplugin::status": null,
+        "dateLastActivity": "2026-10-12 01:57:15",
+        "dateSubmitted": "2026-10-12 01:34:09",
+        "editorAssigned": true,
+        "id": 2,
+        "issueToBePublished": null,
+        "lastModified": "2026-10-12 01:44:06",
+        "locale": "ru",
+        "publications": [
+          {
+            "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/2/publications/2",
+            "authorsString": "Тестовый Автор, Второй Автор, Третий Автор (Author)",
+            "authorsStringIncludeInBrowse": "Тестовый Автор, Второй Автор, Третий Автор (Author)",
+            "authorsStringShort": "Автор et al.",
+            "categoryIds": [],
+            "coverImage": {
+              "ru": null,
+              "en": null
+            },
+            "crossrefplugin::registeredDoi": null,
+            "crossrefplugin::status": null,
+            "crossrefplugin_batchId": null,
+            "crossrefplugin_failedMsg": null,
+            "crossrefplugin_successMsg": null,
+            "dataciteplugin::registeredDoi": null,
+            "dataciteplugin::status": null,
+            "datePublished": "2026-10-12",
+            "doiObject": null,
+            "fullTitle": {
+              "en": "A Testing duplicate detection in arrays",
+              "ru": "А Проверка поиска дубликатов в массивах"
+            },
+            "galleys": [
+              {
+                "crossrefplugin::registeredDoi": null,
+                "crossrefplugin::status": null,
+                "crossrefplugin_batchId": null,
+                "crossrefplugin_failedMsg": null,
+                "crossrefplugin_successMsg": null,
+                "dataciteplugin::registeredDoi": null,
+                "dataciteplugin::status": null,
+                "doiObject": null,
+                "file": {
+                  "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/2/files/15",
+                  "assocId": 2,
+                  "assocType": 521,
+                  "caption": null,
+                  "copyrightOwner": null,
+                  "createdAt": "2026-10-12 01:56:28",
+                  "creator": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "credit": null,
+                  "crossrefplugin::registeredDoi": null,
+                  "crossrefplugin::status": null,
+                  "crossrefplugin_batchId": null,
+                  "crossrefplugin_failedMsg": null,
+                  "crossrefplugin_successMsg": null,
+                  "dataciteplugin::registeredDoi": null,
+                  "dataciteplugin::status": null,
+                  "dateCreated": null,
+                  "dependentFiles": [],
+                  "description": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "documentType": "pdf",
+                  "fileId": 11,
+                  "fileStage": 10,
+                  "genreId": 1,
+                  "genreIsDependent": false,
+                  "genreIsSupplementary": false,
+                  "genreName": {
+                    "en": "Article Text",
+                    "ru": "Текст статьи"
+                  },
+                  "id": 15,
+                  "language": null,
+                  "locale": null,
+                  "mimetype": "application/pdf",
+                  "name": {
+                    "ru": "A-v2.pdf",
+                    "en": ""
+                  },
+                  "path": "journals/1/articles/2/6acbdbdc39124.pdf",
+                  "publisher": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "revisions": [],
+                  "source": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "sourceSubmissionFileId": null,
+                  "sponsor": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "subject": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "submissionId": 2,
+                  "terms": null,
+                  "updatedAt": "2026-10-12 01:56:28",
+                  "uploaderUserId": 2,
+                  "uploaderUserName": "editor",
+                  "url": "http://localhost:8080/vestnik-test/$$$call$$$/api/file/file-api/download-file?submissionFileId=15&submissionId=2&stageId=5",
+                  "viewable": null
+                },
+                "id": 2,
+                "isApproved": false,
+                "label": "PDF",
+                "locale": "ru",
+                "pub-id::publisher-id": null,
+                "publicationId": 2,
+                "seq": 0,
+                "submissionFileId": 15,
+                "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/2/version/2/2",
+                "urlRemote": null
+              }
+            ],
+            "id": 2,
+            "locale": "ru",
+            "pages": "1–3",
+            "prefix": {
+              "ru": "",
+              "en": ""
+            },
+            "primaryContactId": 2,
+            "pub-id::publisher-id": null,
+            "sectionId": 1,
+            "status": 3,
+            "submissionId": 2,
+            "subtitle": {
+              "ru": "",
+              "en": ""
+            },
+            "title": {
+              "en": "A Testing duplicate detection in arrays",
+              "ru": "А Проверка поиска дубликатов в массивах"
+            },
+            "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/2/version/2",
+            "version": 1
+          }
+        ],
+        "recommendationsIn": null,
+        "reviewersNotAssigned": false,
+        "revisionsRequested": false,
+        "revisionsSubmitted": false,
+        "scheduledIn": null,
+        "stageId": 5,
+        "status": 3,
+        "statusLabel": "Published",
+        "submissionProgress": "",
+        "urlAuthorWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/mySubmissions?workflowSubmissionId=2",
+        "urlEditorialWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/editorial?workflowSubmissionId=2",
+        "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/2",
+        "urlSubmissionWizard": "http://localhost:8080/vestnik-test/en/submission?id=2",
+        "urlWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/editorial?workflowSubmissionId=2"
+      }
+    ],
+    "coverImage": null,
+    "coverImageAltText": null,
+    "coverImageUrl": [],
+    "dateNotified": null,
+    "datePublished": "2026-10-12 01:57:15",
+    "description": {
+      "en": "<p>Test issue for the full workflow.</p>",
+      "ru": "<p>Тестовый выпуск для проверки полного сценария.</p>"
+    },
+    "doiObject": null,
+    "galleys": [],
+    "id": 2,
+    "identification": "Vol. 1 No. 4 (2026): Fourth quarter 2026",
+    "journalId": 1,
+    "lastModified": "2026-10-12 01:57:15",
+    "number": "4",
+    "openAccessDate": null,
+    "originalStyleFileName": null,
+    "published": true,
+    "publishedUrl": "http://localhost:8080/vestnik-test/en/issue/view/2",
+    "sections": [
+      {
+        "abbrev": {
+          "en": "",
+          "ru": "СТ"
+        },
+        "abstractsNotRequired": false,
+        "contextId": 1,
+        "editorRestricted": false,
+        "hideAuthor": false,
+        "hideTitle": false,
+        "id": 1,
+        "identifyType": {
+          "en": "",
+          "ru": ""
+        },
+        "isInactive": false,
+        "metaIndexed": true,
+        "metaReviewed": true,
+        "policy": {
+          "en": "",
+          "ru": "<p>Научные статьи по информационным технологиям. Двойное слепое рецензирование, минимум два подтверждённых отзыва. / Research articles in information technologies. Double-anonymous peer review; at least two confirmed reviews.</p>"
+        },
+        "reviewFormId": 1,
+        "sequence": 0,
+        "title": {
+          "en": "Research Articles",
+          "ru": "Научные статьи"
+        },
+        "wordCount": 0,
+        "seq": 1
+      }
+    ],
+    "showNumber": true,
+    "showTitle": true,
+    "showVolume": true,
+    "showYear": true,
+    "styleFileName": null,
+    "title": {
+      "en": "Fourth quarter 2026",
+      "ru": "IV квартал 2026"
+    },
+    "urlPath": null,
+    "volume": 1,
+    "year": 2026,
+    "dataciteplugin::status": null,
+    "dataciteplugin::registeredDoi": null,
+    "crossrefplugin::status": null,
+    "crossrefplugin::registeredDoi": null,
+    "crossrefplugin_batchId": null,
+    "crossrefplugin_failedMsg": null,
+    "crossrefplugin_successMsg": null
+  }
+}

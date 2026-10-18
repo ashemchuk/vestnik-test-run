@@ -1,0 +1,6 @@
+from importlib.machinery import SourceFileLoader
+h=SourceFileLoader('run','/private/tmp/run-full.py').load_module();globals().update({k:getattr(h,k) for k in ['session','req','reviewer_action','legacy','decision']})
+e=session('editor')
+for role,aid in [('reviewer1',9),('reviewer5',10)]:
+ s=session(role);reviewer_action(s,3,'saveStep',{'submissionId':3,'reviewAssignmentId':aid,'step':1,'competingInterestOption':'no','privacyConsent':1},'B-'+role+'-accept');reviewer_action(s,3,'saveStep',{'submissionId':3,'reviewAssignmentId':aid,'step':2},'B-'+role+'-guidelines');reviewer_action(s,3,'saveStep',{'submissionId':3,'reviewAssignmentId':aid,'step':3,'reviewFormResponses[1]':3,'reviewFormResponses[2]':'Отклонить: в тестовом тексте недостаточно данных для проверки научного результата.','recommendation':5},'B-'+role+'-reject');legacy(e,'grid/users/reviewer/reviewer-grid/review-read',{'submissionId':3,'stageId':3,'reviewRoundId':5,'reviewAssignmentId':aid},'B-'+role+'-confirmed')
+req(e,'GET','/submissions/3',tag='B-reviews-complete');decision(e,3,6,5,'B-declined','Б отклонена редакцией после двух отрицательных рецензий. {$allReviewerComments}');req(e,'GET','/submissions/3',tag='B-final-state')

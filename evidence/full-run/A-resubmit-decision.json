@@ -1,0 +1,16 @@
+{
+  "http": 200,
+  "body": {
+    "_href": "http://localhost:8080/index/api/v1/submissions/2/decisions/7",
+    "dateDecided": "2026-10-12 01:45:27",
+    "decision": 5,
+    "description": "The author must provide revisions that will be sent for another round of review before this submission will be accepted for publication.",
+    "editorId": 2,
+    "id": 7,
+    "label": "Resubmit for Review",
+    "reviewRoundId": 3,
+    "round": 1,
+    "stageId": 3,
+    "submissionId": 2
+  }
+}

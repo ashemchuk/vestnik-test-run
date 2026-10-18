@@ -1,0 +1,35 @@
+{
+  "sha": "372e3b84740344db6c2f85193c3eb3e4f539cb00",
+  "node_id": "C_kwDOAAW5cNoAKDM3MmUzYjg0NzQwMzQ0ZGI2YzJmODUxOTNjM2ViM2U0ZjUzOWNiMDA",
+  "url": "https://api.github.com/repos/pkp/ojs/git/commits/372e3b84740344db6c2f85193c3eb3e4f539cb00",
+  "html_url": "https://github.com/pkp/ojs/commit/372e3b84740344db6c2f85193c3eb3e4f539cb00",
+  "author": {
+    "name": "Alec Smecher",
+    "email": "alec@smecher.bc.ca",
+    "date": "2026-06-30T21:45:38Z"
+  },
+  "committer": {
+    "name": "Alec Smecher",
+    "email": "alec@smecher.bc.ca",
+    "date": "2026-06-30T21:45:38Z"
+  },
+  "tree": {
+    "sha": "a4a7b862b0d4f68d080e324ae682a3409b6115c9",
+    "url": "https://api.github.com/repos/pkp/ojs/git/trees/a4a7b862b0d4f68d080e324ae682a3409b6115c9"
+  },
+  "message": "Pre-release commits",
+  "parents": [
+    {
+      "sha": "e0fc8f90fd126a75d26e68701a0f008960d9d909",
+      "url": "https://api.github.com/repos/pkp/ojs/git/commits/e0fc8f90fd126a75d26e68701a0f008960d9d909",
+      "html_url": "https://github.com/pkp/ojs/commit/e0fc8f90fd126a75d26e68701a0f008960d9d909"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null,
+    "verified_at": null
+  }
+}

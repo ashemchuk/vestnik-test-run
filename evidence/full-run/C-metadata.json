@@ -1,0 +1,153 @@
+{
+  "http": 200,
+  "body": {
+    "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/4/publications/4",
+    "abstract": {
+      "en": "<p>A test manuscript for the editorial workflow: C A short note on stable sorting.</p>",
+      "ru": "<p>Тестовая работа для проверки редакционного процесса: В Короткая заметка о стабильной сортировке.</p>"
+    },
+    "accessStatus": 0,
+    "authors": [
+      {
+        "affiliations": [],
+        "country": "RU",
+        "email": "author3@example.test",
+        "familyName": {
+          "en": "Автор",
+          "ru": "Автор"
+        },
+        "fullName": "Третий Автор",
+        "givenName": {
+          "en": "Третий",
+          "ru": "Третий"
+        },
+        "id": 7,
+        "includeInBrowse": true,
+        "orcid": null,
+        "orcidAccessDenied": null,
+        "orcidAccessExpiresOn": null,
+        "orcidAccessScope": null,
+        "orcidAccessToken": null,
+        "orcidDisplayValue": null,
+        "orcidEmailToken": null,
+        "orcidIsVerified": null,
+        "orcidRefreshToken": null,
+        "orcidSandbox": null,
+        "orcidWorkPutCode": null,
+        "preferredPublicName": {
+          "ru": "",
+          "en": ""
+        },
+        "publicationId": 4,
+        "seq": 0,
+        "submissionLocale": "ru",
+        "userGroupId": 14,
+        "userGroupName": {
+          "en": "Author",
+          "ru": "Автор"
+        }
+      }
+    ],
+    "authorsString": "Третий Автор ()",
+    "authorsStringIncludeInBrowse": "Третий Автор ()",
+    "authorsStringShort": "Автор",
+    "categoryIds": [],
+    "citations": [],
+    "citationsRaw": "",
+    "copyrightHolder": {
+      "ru": "",
+      "en": ""
+    },
+    "copyrightYear": null,
+    "coverImage": {
+      "ru": null,
+      "en": null
+    },
+    "coverage": {
+      "ru": "",
+      "en": ""
+    },
+    "crossrefplugin::registeredDoi": null,
+    "crossrefplugin::status": null,
+    "crossrefplugin_batchId": null,
+    "crossrefplugin_failedMsg": null,
+    "crossrefplugin_successMsg": null,
+    "dataAvailability": {
+      "ru": "",
+      "en": ""
+    },
+    "dataciteplugin::registeredDoi": null,
+    "dataciteplugin::status": null,
+    "datePublished": null,
+    "disciplines": {
+      "ru": [],
+      "en": []
+    },
+    "doiObject": null,
+    "fullTitle": {
+      "en": "C A short note on stable sorting",
+      "ru": "В Короткая заметка о стабильной сортировке"
+    },
+    "galleys": [],
+    "hideAuthor": null,
+    "id": 4,
+    "issueId": null,
+    "keywords": {
+      "ru": [
+        {
+          "name": "алгоритмы"
+        }
+      ],
+      "en": [
+        {
+          "name": "algorithms"
+        }
+      ]
+    },
+    "lastModified": "2026-10-12 01:57:48",
+    "licenseUrl": null,
+    "locale": "ru",
+    "pages": null,
+    "prefix": {
+      "ru": "",
+      "en": ""
+    },
+    "primaryContactId": 7,
+    "pub-id::publisher-id": null,
+    "rights": {
+      "ru": "",
+      "en": ""
+    },
+    "sectionId": 1,
+    "seq": 0,
+    "source": {
+      "ru": "",
+      "en": ""
+    },
+    "status": 1,
+    "subjects": {
+      "ru": [],
+      "en": []
+    },
+    "submissionId": 4,
+    "subtitle": {
+      "ru": "",
+      "en": ""
+    },
+    "supportingAgencies": {
+      "ru": [],
+      "en": []
+    },
+    "title": {
+      "en": "C A short note on stable sorting",
+      "ru": "В Короткая заметка о стабильной сортировке"
+    },
+    "type": {
+      "ru": "",
+      "en": ""
+    },
+    "urlPath": null,
+    "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/4/version/4",
+    "version": 1
+  }
+}

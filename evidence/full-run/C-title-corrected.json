@@ -1,0 +1,244 @@
+{
+  "http": 200,
+  "body": {
+    "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/4/publications/4",
+    "abstract": {
+      "en": "<p>A short test note: binary search in a sorted array requires O(log n) comparisons.</p>",
+      "ru": "<p>Короткая тестовая заметка: двоичный поиск в отсортированном массиве требует O(log n) сравнений.</p>"
+    },
+    "accessStatus": 0,
+    "authors": [
+      {
+        "affiliations": [],
+        "country": "RU",
+        "email": "author3@example.test",
+        "familyName": {
+          "en": "Автор",
+          "ru": "Автор"
+        },
+        "fullName": "Третий Автор",
+        "givenName": {
+          "en": "Третий",
+          "ru": "Третий"
+        },
+        "id": 7,
+        "includeInBrowse": true,
+        "orcid": null,
+        "orcidAccessDenied": null,
+        "orcidAccessExpiresOn": null,
+        "orcidAccessScope": null,
+        "orcidAccessToken": null,
+        "orcidDisplayValue": null,
+        "orcidEmailToken": null,
+        "orcidIsVerified": null,
+        "orcidRefreshToken": null,
+        "orcidSandbox": null,
+        "orcidWorkPutCode": null,
+        "preferredPublicName": {
+          "ru": "",
+          "en": ""
+        },
+        "publicationId": 4,
+        "seq": 0,
+        "submissionLocale": "ru",
+        "userGroupId": 14,
+        "userGroupName": {
+          "en": "Author",
+          "ru": "Автор"
+        }
+      }
+    ],
+    "authorsString": "Третий Автор ()",
+    "authorsStringIncludeInBrowse": "Третий Автор ()",
+    "authorsStringShort": "Автор",
+    "categoryIds": [],
+    "citations": [],
+    "citationsRaw": "",
+    "copyrightHolder": {
+      "en": "Vestnik Test Journal",
+      "ru": "Тестовый журнал Вестник"
+    },
+    "copyrightYear": 2026,
+    "coverImage": {
+      "ru": null,
+      "en": null
+    },
+    "coverage": {
+      "ru": "",
+      "en": ""
+    },
+    "crossrefplugin::registeredDoi": null,
+    "crossrefplugin::status": null,
+    "crossrefplugin_batchId": null,
+    "crossrefplugin_failedMsg": null,
+    "crossrefplugin_successMsg": null,
+    "dataAvailability": {
+      "ru": "",
+      "en": ""
+    },
+    "dataciteplugin::registeredDoi": null,
+    "dataciteplugin::status": null,
+    "datePublished": "2026-10-12",
+    "disciplines": {
+      "ru": [],
+      "en": []
+    },
+    "doiObject": null,
+    "fullTitle": {
+      "en": "C A short note on binary search",
+      "ru": "В Короткая заметка о двоичном поиске"
+    },
+    "galleys": [
+      {
+        "crossrefplugin::registeredDoi": null,
+        "crossrefplugin::status": null,
+        "crossrefplugin_batchId": null,
+        "crossrefplugin_failedMsg": null,
+        "crossrefplugin_successMsg": null,
+        "dataciteplugin::registeredDoi": null,
+        "dataciteplugin::status": null,
+        "doiObject": null,
+        "file": {
+          "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/4/files/19",
+          "assocId": 3,
+          "assocType": 521,
+          "caption": null,
+          "copyrightOwner": null,
+          "createdAt": "2026-10-12 01:58:08",
+          "creator": {
+            "ru": "",
+            "en": ""
+          },
+          "credit": null,
+          "crossrefplugin::registeredDoi": null,
+          "crossrefplugin::status": null,
+          "crossrefplugin_batchId": null,
+          "crossrefplugin_failedMsg": null,
+          "crossrefplugin_successMsg": null,
+          "dataciteplugin::registeredDoi": null,
+          "dataciteplugin::status": null,
+          "dateCreated": null,
+          "dependentFiles": [],
+          "description": {
+            "ru": "",
+            "en": ""
+          },
+          "documentType": "pdf",
+          "fileId": 15,
+          "fileStage": 10,
+          "genreId": 1,
+          "genreIsDependent": false,
+          "genreIsSupplementary": false,
+          "genreName": {
+            "en": "Article Text",
+            "ru": "Текст статьи"
+          },
+          "id": 19,
+          "language": null,
+          "locale": null,
+          "mimetype": "application/pdf",
+          "name": {
+            "ru": "C-styled.pdf",
+            "en": ""
+          },
+          "path": "journals/1/articles/4/6acbdc40e697f.pdf",
+          "publisher": {
+            "ru": "",
+            "en": ""
+          },
+          "revisions": [],
+          "source": {
+            "ru": "",
+            "en": ""
+          },
+          "sourceSubmissionFileId": null,
+          "sponsor": {
+            "ru": "",
+            "en": ""
+          },
+          "subject": {
+            "ru": "",
+            "en": ""
+          },
+          "submissionId": 4,
+          "terms": null,
+          "updatedAt": "2026-10-12 01:58:08",
+          "uploaderUserId": 2,
+          "uploaderUserName": "editor",
+          "url": "http://localhost:8080/vestnik-test/$$$call$$$/api/file/file-api/download-file?submissionFileId=19&submissionId=4&stageId=5",
+          "viewable": null
+        },
+        "id": 3,
+        "isApproved": false,
+        "label": "PDF",
+        "locale": "ru",
+        "pub-id::publisher-id": null,
+        "publicationId": 4,
+        "seq": 0,
+        "submissionFileId": 19,
+        "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/4/version/4/3",
+        "urlRemote": null
+      }
+    ],
+    "hideAuthor": null,
+    "id": 4,
+    "issueId": 2,
+    "keywords": {
+      "ru": [
+        {
+          "name": "алгоритмы"
+        }
+      ],
+      "en": [
+        {
+          "name": "algorithms"
+        }
+      ]
+    },
+    "lastModified": "2026-10-12 02:10:48",
+    "licenseUrl": null,
+    "locale": "ru",
+    "pages": "4",
+    "prefix": {
+      "ru": "",
+      "en": ""
+    },
+    "primaryContactId": 7,
+    "pub-id::publisher-id": null,
+    "rights": {
+      "ru": "",
+      "en": ""
+    },
+    "sectionId": 1,
+    "seq": 0,
+    "source": {
+      "ru": "",
+      "en": ""
+    },
+    "status": 3,
+    "subjects": {
+      "ru": [],
+      "en": []
+    },
+    "submissionId": 4,
+    "subtitle": {
+      "ru": "",
+      "en": ""
+    },
+    "supportingAgencies": {
+      "ru": [],
+      "en": []
+    },
+    "title": {
+      "en": "C A short note on binary search",
+      "ru": "В Короткая заметка о двоичном поиске"
+    },
+    "type": {
+      "ru": "",
+      "en": ""
+    },
+    "urlPath": null,
+    "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/4/version/4",
+    "version": 1
+  }
+}

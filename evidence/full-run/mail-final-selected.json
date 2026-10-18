@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1Jy1kQisjVTJI115euP0gX",
+    "subject": "Б отклонена редакцией после двух отрицательных рецензий. Reviewer 1:Recommendation: Decline SubmissionРекомендация рецензента / Reviewer recommendationRejectОбоснование и замечания автору / Justification and comments for the authorОтклонить: в тестовом тексте недостаточно данных для проверки научного результата.Reviewer 2:Recommendation: Decline SubmissionРекомендация рецензента / Reviewer recommendationRejectОбоснование и замечания автору / Justification and comments for the authorОтклонить: в тестовом тексте недостаточно данных для проверки научного результата.",
+    "to": [
+      {
+        "Name": "Второй Автор",
+        "Address": "author2@example.test"
+      }
+    ],
+    "text": "Б отклонена редакцией после двух отрицательных рецензий.\n\n*Reviewer 1:*\nRecommendation: Decline Submission\n\nРекомендация рецензента / Reviewer recommendation\n\nReject\n\nОбоснование и замечания автору / Justification and comments for the author\n\nОтклонить: в тестовом тексте недостаточно данных для проверки научного результата.\n\n*Reviewer 2:*\nRecommendation: Decline Submission\n\nРекомендация рецензента / Reviewer recommendation\n\nReject\n\nОбоснование и замечания автору / Justification and comments for the author\n\nОтклонить: в тестовом тексте недостаточно данных для проверки научного результата."
+  },
+  {
+    "id": "2Fcf6Kyqee3IB14ScfoWmk",
+    "subject": "Сможете ли Вы сделать рецензию этого материала для нас?",
+    "to": [
+      {
+        "Name": "Четвёртый Рецензент",
+        "Address": "reviewer4@example.test"
+      }
+    ],
+    "text": "Здравствуйте, Четвёртый Рецензент!\n\nЭто письмо — автоматическое напоминание из журнала «Тестовый журнал Вестник» о нашем запросе Вашей рецензии на материал «А Проверка поиска дубликатов в массивах».\n\nВы получили это письмо, поскольку мы ещё не получили от Вас информации о том, что Вы сможете или не сможете сделать рецензию на этот материал.\n\nПожалуйста, воспользуйтесь нашей системой управления материалами, чтобы принять или отклонить этот запрос на рецензию и чтобы мы знали о Вашем решении.\n\nЕсли Вы сможете дать рецензию на этот материал, то её нужно прислать до 2026-10-13. Вы можете следовать шагам процесса рецензирования, чтобы просмотреть материал, загрузить файлы рецензии и отправить Ваши комментарии по рецензии.\n\nА Проверка поиска дубликатов в массивах ( http://localhost:8080/vestnik-test/ru/reviewer/submission?submissionId=2 )\n\n*Аннотация*\n\nТестовая статья с формулой и рисунком. Сравниваются попарный поиск и множество.\n\nПожалуйста, свяжитесь со мной, если у Вас есть какие-то вопросы по материалу или процессу рецензирования.\n\nБлагодарю Вас за рассмотрение этой просьбы. Мы высоко ценим вашу помощь.\n\nС уважением,\n\n—\n\nЭто автоматически отправленное письмо от Тестовый журнал Вестник ( http://localhost:8080/vestnik-test )."
+  },
+  {
+    "id": "1sbfCHLAryfiXPPpYmwieA",
+    "subject": "Сможете ли Вы сделать рецензию этого материала для нас?",
+    "to": [
+      {
+        "Name": "Второй Рецензент",
+        "Address": "reviewer2@example.test"
+      }
+    ],
+    "text": "Здравствуйте, Второй Рецензент!\n\nЭто письмо — автоматическое напоминание из журнала «Тестовый журнал Вестник» о нашем запросе Вашей рецензии на материал «А Проверка поиска дубликатов в массивах».\n\nВы получили это письмо, поскольку мы ещё не получили от Вас информации о том, что Вы сможете или не сможете сделать рецензию на этот материал.\n\nПожалуйста, воспользуйтесь нашей системой управления материалами, чтобы принять или отклонить этот запрос на рецензию и чтобы мы знали о Вашем решении.\n\nЕсли Вы сможете дать рецензию на этот материал, то её нужно прислать до 2026-10-13. Вы можете следовать шагам процесса рецензирования, чтобы просмотреть материал, загрузить файлы рецензии и отправить Ваши комментарии по рецензии.\n\nА Проверка поиска дубликатов в массивах ( http://localhost:8080/vestnik-test/ru/reviewer/submission?submissionId=2 )\n\n*Аннотация*\n\nТестовая статья с формулой и рисунком. Сравниваются попарный поиск и множество.\n\nПожалуйста, свяжитесь со мной, если у Вас есть какие-то вопросы по материалу или процессу рецензирования.\n\nБлагодарю Вас за рассмотрение этой просьбы. Мы высоко ценим вашу помощь.\n\nС уважением,\n\n—\n\nЭто автоматически отправленное письмо от Тестовый журнал Вестник ( http://localhost:8080/vestnik-test )."
+  },
+  {
+    "id": "7Ui72EGf1qxmMBJfwx3pzT",
+    "subject": "А — доработка с повторным рецензированием",
+    "to": [
+      {
+        "Name": "Третий Автор",
+        "Address": "author3@example.test"
+      }
+    ],
+    "text": "The following email was sent to Тестовый Автор from Vestnik Test Journal regarding \"A Testing duplicate detection in arrays\".\n\nYou are receiving a copy of this notification because you are identified as an author of the submission. Any instructions in the message below are intended for the submitting author, Тестовый Автор, and no action is required of you at this time.\n\nПросим доработать статью. Отзывы рецензентов: {$allReviewerComments}"
+  },
+  {
+    "id": "3fwzeIguUWJuf2bVVlbL7E",
+    "subject": "А — доработка с повторным рецензированием",
+    "to": [
+      {
+        "Name": "Второй Автор",
+        "Address": "author2@example.test"
+      }
+    ],
+    "text": "The following email was sent to Тестовый Автор from Vestnik Test Journal regarding \"A Testing duplicate detection in arrays\".\n\nYou are receiving a copy of this notification because you are identified as an author of the submission. Any instructions in the message below are intended for the submitting author, Тестовый Автор, and no action is required of you at this time.\n\nПросим доработать статью. Отзывы рецензентов: {$allReviewerComments}"
+  },
+  {
+    "id": "1QDmaAFxPqervhYnIsE7PZ",
+    "subject": "А — доработка с повторным рецензированием",
+    "to": [
+      {
+        "Name": "Тестовый Автор",
+        "Address": "author@example.test"
+      }
+    ],
+    "text": "Просим доработать статью. Отзывы рецензентов:\n\n*Reviewer 1:*\nRecommendation: Revisions Required\n\nРекомендация рецензента / Reviewer recommendation\n\nRevisions required\n\nОбоснование и замечания автору / Justification and comments for the author\n\nДобавьте псевдокод, граничные случаи и оценку памяти. После исправлений статья может быть опубликована.\n\n*Reviewer 2:*\nRecommendation: Accept Submission\n\nРекомендация рецензента / Reviewer recommendation\n\nAccept as is\n\nОбоснование и замечания автору / Justification and comments for the author\n\nМетод понятен. Рекомендую публиковать."
+  }
+]

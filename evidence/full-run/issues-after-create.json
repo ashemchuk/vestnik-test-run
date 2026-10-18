@@ -1,0 +1,72 @@
+{
+  "http": 200,
+  "body": {
+    "items": [
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/issues/1",
+        "coverImage": null,
+        "coverImageAltText": null,
+        "coverImageUrl": [],
+        "datePublished": "2026-10-07 21:07:06",
+        "description": {
+          "en": "",
+          "ru": ""
+        },
+        "doiObject": null,
+        "galleys": [],
+        "id": 1,
+        "identification": "Vol. 1 No. 1 (2026): Тестовый выпуск",
+        "journalId": 1,
+        "number": "1",
+        "published": true,
+        "publishedUrl": "http://localhost:8080/vestnik-test/en/issue/view/1",
+        "title": {
+          "en": "",
+          "ru": "Тестовый выпуск"
+        },
+        "volume": 1,
+        "year": 2026,
+        "dataciteplugin::status": null,
+        "dataciteplugin::registeredDoi": null,
+        "crossrefplugin::status": null,
+        "crossrefplugin::registeredDoi": null,
+        "crossrefplugin_batchId": null,
+        "crossrefplugin_failedMsg": null,
+        "crossrefplugin_successMsg": null
+      },
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/issues/2",
+        "coverImage": null,
+        "coverImageAltText": null,
+        "coverImageUrl": [],
+        "datePublished": null,
+        "description": {
+          "en": "<p>Test issue for the full workflow.</p>",
+          "ru": "<p>Тестовый выпуск для проверки полного сценария.</p>"
+        },
+        "doiObject": null,
+        "galleys": [],
+        "id": 2,
+        "identification": "Vol. 1 No. 4 (2026): Fourth quarter 2026",
+        "journalId": 1,
+        "number": "4",
+        "published": false,
+        "publishedUrl": "http://localhost:8080/vestnik-test/en/issue/view/2",
+        "title": {
+          "en": "Fourth quarter 2026",
+          "ru": "IV квартал 2026"
+        },
+        "volume": 1,
+        "year": 2026,
+        "dataciteplugin::status": null,
+        "dataciteplugin::registeredDoi": null,
+        "crossrefplugin::status": null,
+        "crossrefplugin::registeredDoi": null,
+        "crossrefplugin_batchId": null,
+        "crossrefplugin_failedMsg": null,
+        "crossrefplugin_successMsg": null
+      }
+    ],
+    "itemsMax": 2
+  }
+}

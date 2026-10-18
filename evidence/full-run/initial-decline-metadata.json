@@ -1,0 +1,153 @@
+{
+  "http": 200,
+  "body": {
+    "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/6/publications/6",
+    "abstract": {
+      "en": "<p>Technical desk rejection test.</p>",
+      "ru": "<p>Техническая проверка решения на входе.</p>"
+    },
+    "accessStatus": 0,
+    "authors": [
+      {
+        "affiliations": [],
+        "country": "RU",
+        "email": "author2@example.test",
+        "familyName": {
+          "en": "Автор",
+          "ru": "Автор"
+        },
+        "fullName": "Второй Автор",
+        "givenName": {
+          "en": "Второй",
+          "ru": "Второй"
+        },
+        "id": 9,
+        "includeInBrowse": true,
+        "orcid": null,
+        "orcidAccessDenied": null,
+        "orcidAccessExpiresOn": null,
+        "orcidAccessScope": null,
+        "orcidAccessToken": null,
+        "orcidDisplayValue": null,
+        "orcidEmailToken": null,
+        "orcidIsVerified": null,
+        "orcidRefreshToken": null,
+        "orcidSandbox": null,
+        "orcidWorkPutCode": null,
+        "preferredPublicName": {
+          "ru": "",
+          "en": ""
+        },
+        "publicationId": 6,
+        "seq": 0,
+        "submissionLocale": "ru",
+        "userGroupId": 14,
+        "userGroupName": {
+          "en": "Author",
+          "ru": "Автор"
+        }
+      }
+    ],
+    "authorsString": "Второй Автор ()",
+    "authorsStringIncludeInBrowse": "Второй Автор ()",
+    "authorsStringShort": "Автор",
+    "categoryIds": [],
+    "citations": [],
+    "citationsRaw": "",
+    "copyrightHolder": {
+      "ru": "",
+      "en": ""
+    },
+    "copyrightYear": null,
+    "coverImage": {
+      "ru": null,
+      "en": null
+    },
+    "coverage": {
+      "ru": "",
+      "en": ""
+    },
+    "crossrefplugin::registeredDoi": null,
+    "crossrefplugin::status": null,
+    "crossrefplugin_batchId": null,
+    "crossrefplugin_failedMsg": null,
+    "crossrefplugin_successMsg": null,
+    "dataAvailability": {
+      "ru": "",
+      "en": ""
+    },
+    "dataciteplugin::registeredDoi": null,
+    "dataciteplugin::status": null,
+    "datePublished": null,
+    "disciplines": {
+      "ru": [],
+      "en": []
+    },
+    "doiObject": null,
+    "fullTitle": {
+      "en": "Temporary test of desk rejection",
+      "ru": "Проверка входного отказа — временный тест"
+    },
+    "galleys": [],
+    "hideAuthor": null,
+    "id": 6,
+    "issueId": null,
+    "keywords": {
+      "ru": [
+        {
+          "name": "тест"
+        }
+      ],
+      "en": [
+        {
+          "name": "test"
+        }
+      ]
+    },
+    "lastModified": "2026-10-12 02:09:21",
+    "licenseUrl": null,
+    "locale": "ru",
+    "pages": null,
+    "prefix": {
+      "ru": "",
+      "en": ""
+    },
+    "primaryContactId": 9,
+    "pub-id::publisher-id": null,
+    "rights": {
+      "ru": "",
+      "en": ""
+    },
+    "sectionId": 1,
+    "seq": 0,
+    "source": {
+      "ru": "",
+      "en": ""
+    },
+    "status": 1,
+    "subjects": {
+      "ru": [],
+      "en": []
+    },
+    "submissionId": 6,
+    "subtitle": {
+      "ru": "",
+      "en": ""
+    },
+    "supportingAgencies": {
+      "ru": [],
+      "en": []
+    },
+    "title": {
+      "en": "Temporary test of desk rejection",
+      "ru": "Проверка входного отказа — временный тест"
+    },
+    "type": {
+      "ru": "",
+      "en": ""
+    },
+    "urlPath": null,
+    "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/6/version/6",
+    "version": 1
+  }
+}

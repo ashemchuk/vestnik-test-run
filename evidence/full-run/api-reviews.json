@@ -1,0 +1,6 @@
+{
+  "http": 500,
+  "body": {
+    "error": "The route vestnik-test/api/v1/submissions/2/reviews could not be found."
+  }
+}

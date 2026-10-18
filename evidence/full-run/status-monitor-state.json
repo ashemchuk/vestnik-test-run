@@ -1,0 +1,18 @@
+{
+  "4": {
+    "status": 3,
+    "stageId": 5
+  },
+  "3": {
+    "status": 4,
+    "stageId": 3
+  },
+  "2": {
+    "status": 3,
+    "stageId": 5
+  },
+  "1": {
+    "status": 3,
+    "stageId": 5
+  }
+}

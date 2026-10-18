@@ -1,0 +1,33 @@
+{
+  "ID": "1QDmaAFxPqervhYnIsE7PZ",
+  "MessageID": "6c34a796559118405d35fe5cbf781306@example.test",
+  "From": {
+    "Name": "Тестовый Редактор",
+    "Address": "editor@example.test"
+  },
+  "To": [
+    {
+      "Name": "Тестовый Автор",
+      "Address": "author@example.test"
+    }
+  ],
+  "Cc": [],
+  "Bcc": [],
+  "ReplyTo": [],
+  "ReturnPath": "editor@example.test",
+  "Subject": "А — доработка с повторным рецензированием",
+  "ListUnsubscribe": {
+    "Header": "",
+    "Links": [],
+    "Errors": "",
+    "HeaderPost": ""
+  },
+  "Date": "2026-10-12T01:45:27+07:00",
+  "Tags": [],
+  "Username": "",
+  "Text": "Просим доработать статью. Отзывы рецензентов:\n\n*Reviewer 1:*\nRecommendation: Revisions Required\n\nРекомендация рецензента / Reviewer recommendation\n\nRevisions required\n\nОбоснование и замечания автору / Justification and comments for the author\n\nДобавьте псевдокод, граничные случаи и оценку памяти. После исправлений статья может быть опубликована.\n\n*Reviewer 2:*\nRecommendation: Accept Submission\n\nРекомендация рецензента / Reviewer recommendation\n\nAccept as is\n\nОбоснование и замечания автору / Justification and comments for the author\n\nМетод понятен. Рекомендую публиковать.",
+  "HTML": "Просим доработать статью. Отзывы рецензентов: <p><strong>Reviewer 1:</strong><br>Recommendation: Revisions Required</p><p>Рекомендация рецензента / Reviewer recommendation</p><p>Revisions required</p><p>Обоснование и замечания автору / Justification and comments for the author</p><p>Добавьте псевдокод, граничные случаи и оценку памяти. После исправлений статья может быть опубликована.</p><p><strong>Reviewer 2:</strong><br>Recommendation: Accept Submission</p><p>Рекомендация рецензента / Reviewer recommendation</p><p>Accept as is</p><p>Обоснование и замечания автору / Justification and comments for the author</p><p>Метод понятен. Рекомендую публиковать.</p>\r\n",
+  "Size": 3077,
+  "Inline": [],
+  "Attachments": []
+}

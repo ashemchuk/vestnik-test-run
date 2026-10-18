@@ -1,0 +1,23 @@
+[
+  {
+    "role": "reviewer2",
+    "http": 200,
+    "bytes": 48955,
+    "signature": "504b0304",
+    "message": "DOCX archive"
+  },
+  {
+    "role": "reviewer3",
+    "http": 200,
+    "bytes": 113,
+    "signature": "7b227374",
+    "message": "{\"status\":false,\"content\":\"The current role does not have access to this operation.\",\"elementId\":\"0\",\"events\":[]}"
+  },
+  {
+    "role": "anonymous",
+    "http": 200,
+    "bytes": 287,
+    "signature": "7b227374",
+    "message": "{\"status\":false,\"content\":\"\\u0414\\u0430\\u043d\\u043d\\u0430\\u044f \\u0440\\u043e\\u043b\\u044c \\u043d\\u0435 \\u0438\\u043c\\u0435\\u0435\\u0442 \\u0434\\u043e\\u0441\\u0442\\u0443\\u043f\\u0430 \\u043a \\u044d\\u0442\\u043e\\u0439 \\u043e\\u043f"
+  }
+]

@@ -1,3 +1,11 @@
 .env
 .local-admin.json
 .local-test-users.json
+
+.local-full-users.json
+backups/
+
+__pycache__/
+*.pyc
+
+.obsidian/

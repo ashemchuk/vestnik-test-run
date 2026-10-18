@@ -1,0 +1,10 @@
+{
+  "ref": "refs/tags/3_5_0-5",
+  "node_id": "MDM6UmVmMzc1MTUyOnJlZnMvdGFncy8zXzVfMC01",
+  "url": "https://api.github.com/repos/pkp/ojs/git/refs/tags/3_5_0-5",
+  "object": {
+    "sha": "372e3b84740344db6c2f85193c3eb3e4f539cb00",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pkp/ojs/git/commits/372e3b84740344db6c2f85193c3eb3e4f539cb00"
+  }
+}

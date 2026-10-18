@@ -1,0 +1,3 @@
+from importlib.machinery import SourceFileLoader
+h=SourceFileLoader('run','/private/tmp/run-full.py').load_module();globals().update({k:getattr(h,k) for k in ['session','req','legacy']})
+s=session('editor');req(s,'PUT','/submissions/2/publications/2',{'issueId':2,'pages':'1–3','datePublished':'2026-10-12'},'A-issue-assigned');req(s,'PUT','/submissions/2/publications/2/publish',{},'A-scheduled');legacy(s,'grid/issues/future-issue-grid/publish-issue',{'issueId':2,'confirmed':1},'issue-published');req(s,'GET','/issues/2',tag='issue-published-state');req(s,'GET','/submissions/2',tag='A-published-state')

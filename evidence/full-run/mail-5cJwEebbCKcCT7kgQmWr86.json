@@ -1,0 +1,33 @@
+{
+  "ID": "5cJwEebbCKcCT7kgQmWr86",
+  "MessageID": "1ea7fbebd6c7dc4e24484f504ce52c8c@example.test",
+  "From": {
+    "Name": "admin admin",
+    "Address": "admin@example.test"
+  },
+  "To": [
+    {
+      "Name": "Второй Рецензент",
+      "Address": "reviewer2@example.test"
+    }
+  ],
+  "Cc": [],
+  "Bcc": [],
+  "ReplyTo": [],
+  "ReturnPath": "admin@example.test",
+  "Subject": "Invitation to review",
+  "ListUnsubscribe": {
+    "Header": "",
+    "Links": [],
+    "Errors": "",
+    "HeaderPost": ""
+  },
+  "Date": "2026-10-07T20:41:39+07:00",
+  "Tags": [],
+  "Username": "",
+  "Text": "Dear Второй Рецензент,\n\nI believe that you would serve as an excellent reviewer for a submission to Vestnik Test Journal. The submission's title and abstract are below, and I hope that you will consider undertaking this important task for us.\n\nIf you are able to review this submission, your review is due by 2026-10-20. You can view the submission, upload review files, and submit your review by logging into the journal site and following the steps at the link below.\n\nComparison of duplicate detection algorithms ( http://localhost:8080/vestnik-test/en/reviewer/submission?submissionId=1 )\n\n*Abstract*\n\nPairwise comparison and set-based duplicate detection are considered. The number of comparisons is calculated for arrays of different sizes. The example illustrates quadratic complexity and expected linear complexity under standard hashing assumptions.\n\nPlease accept or decline ( http://localhost:8080/vestnik-test/en/reviewer/submission?submissionId=1 ) the review by *2026-10-13*.\n\nYou may contact me with any questions about the submission or the review process.\n\nThank you for considering this request. Your help is much appreciated.\n\nKind regards,\n\nadmin admin",
+  "HTML": "<p>Dear Второй Рецензент,</p>\r\n<p>I believe that you would serve as an excellent reviewer for a submission to Vestnik Test Journal. The submission's title and abstract are below, and I hope that you will consider undertaking this important task for us.</p>\r\n<p>If you are able to review this submission, your review is due by 2026-10-20. You can view the submission, upload review files, and submit your review by logging into the journal site and following the steps at the link below.</p>\r\n<p><a href=\"http://localhost:8080/vestnik-test/en/reviewer/submission?submissionId=1\">Comparison of duplicate detection algorithms</a></p>\r\n<p><strong>Abstract</strong></p>\r\n<p>Pairwise comparison and set-based duplicate detection are considered. The number of comparisons is calculated for arrays of different sizes. The example illustrates quadratic complexity and expected linear complexity under standard hashing assumptions.</p>\r\n<p>Please <a href=\"http://localhost:8080/vestnik-test/en/reviewer/submission?submissionId=1\">accept or decline</a> the review by <strong>2026-10-13</strong>.</p>\r\n<p>You may contact me with any questions about the submission or the review process.</p>\r\n<p>Thank you for considering this request. Your help is much appreciated.</p>\r\n<p>Kind regards,</p>\r\n<p>admin admin</p>\r\n",
+  "Size": 2092,
+  "Inline": [],
+  "Attachments": []
+}

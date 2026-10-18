@@ -1,0 +1,73 @@
+{
+  "http": 200,
+  "body": {
+    "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/5/files/21",
+    "assocId": null,
+    "assocType": null,
+    "caption": null,
+    "copyrightOwner": null,
+    "createdAt": "2026-10-12 01:59:47",
+    "creator": {
+      "ru": "",
+      "en": ""
+    },
+    "credit": null,
+    "crossrefplugin::registeredDoi": null,
+    "crossrefplugin::status": null,
+    "crossrefplugin_batchId": null,
+    "crossrefplugin_failedMsg": null,
+    "crossrefplugin_successMsg": null,
+    "dataciteplugin::registeredDoi": null,
+    "dataciteplugin::status": null,
+    "dateCreated": null,
+    "dependentFiles": [],
+    "description": {
+      "ru": "",
+      "en": ""
+    },
+    "documentType": "default",
+    "fileId": 17,
+    "fileStage": 2,
+    "genreId": 1,
+    "genreIsDependent": false,
+    "genreIsSupplementary": false,
+    "genreName": {
+      "en": "Article Text",
+      "ru": "Текст статьи"
+    },
+    "id": 21,
+    "language": null,
+    "locale": null,
+    "mimetype": "text/x-php",
+    "name": {
+      "ru": "blocked-upload.php",
+      "en": ""
+    },
+    "path": "journals/1/articles/5/6acbdca354da3.txt",
+    "publisher": {
+      "ru": "",
+      "en": ""
+    },
+    "revisions": [],
+    "source": {
+      "ru": "",
+      "en": ""
+    },
+    "sourceSubmissionFileId": null,
+    "sponsor": {
+      "ru": "",
+      "en": ""
+    },
+    "subject": {
+      "ru": "",
+      "en": ""
+    },
+    "submissionId": 5,
+    "terms": null,
+    "updatedAt": "2026-10-12 01:59:47",
+    "uploaderUserId": 10,
+    "uploaderUserName": "author2",
+    "url": "http://localhost:8080/vestnik-test/$$$call$$$/api/file/file-api/download-file?submissionFileId=21&submissionId=5&stageId=1",
+    "viewable": null
+  }
+}

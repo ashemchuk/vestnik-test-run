@@ -1,0 +1,16 @@
+{
+  "http": 200,
+  "body": {
+    "_href": "http://localhost:8080/index/api/v1/submissions/4/decisions/13",
+    "dateDecided": "2026-10-12 01:58:08",
+    "decision": 7,
+    "description": "Send this submission to the production stage to be prepared for publication.",
+    "editorId": 2,
+    "id": 13,
+    "label": "Send To Production",
+    "reviewRoundId": null,
+    "round": null,
+    "stageId": 4,
+    "submissionId": 4
+  }
+}

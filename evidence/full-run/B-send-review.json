@@ -1,0 +1,16 @@
+{
+  "http": 200,
+  "body": {
+    "_href": "http://localhost:8080/index/api/v1/submissions/3/decisions/11",
+    "dateDecided": "2026-10-12 01:58:07",
+    "decision": 3,
+    "description": "This submission is ready to be sent for peer review.",
+    "editorId": 2,
+    "id": 11,
+    "label": "Send for Review",
+    "reviewRoundId": null,
+    "round": null,
+    "stageId": 1,
+    "submissionId": 3
+  }
+}

@@ -1,0 +1,609 @@
+{
+  "http": 200,
+  "body": {
+    "itemsMax": 4,
+    "items": [
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/4",
+        "contextId": 1,
+        "crossrefplugin::registeredDoi": null,
+        "crossrefplugin::status": null,
+        "crossrefplugin_batchId": null,
+        "crossrefplugin_failedMsg": null,
+        "crossrefplugin_successMsg": null,
+        "currentPublicationId": 4,
+        "dataciteplugin::registeredDoi": null,
+        "dataciteplugin::status": null,
+        "dateLastActivity": "2026-10-12 02:10:48",
+        "dateSubmitted": "2026-10-12 01:57:49",
+        "editorAssigned": true,
+        "id": 4,
+        "issueToBePublished": null,
+        "lastModified": "2026-10-12 01:57:49",
+        "locale": "ru",
+        "publications": [
+          {
+            "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/4/publications/4",
+            "authorsString": "Третий Автор ()",
+            "authorsStringIncludeInBrowse": "Третий Автор ()",
+            "authorsStringShort": "Автор",
+            "categoryIds": [],
+            "coverImage": {
+              "ru": null,
+              "en": null
+            },
+            "crossrefplugin::registeredDoi": null,
+            "crossrefplugin::status": null,
+            "crossrefplugin_batchId": null,
+            "crossrefplugin_failedMsg": null,
+            "crossrefplugin_successMsg": null,
+            "dataciteplugin::registeredDoi": null,
+            "dataciteplugin::status": null,
+            "datePublished": "2026-10-12",
+            "doiObject": null,
+            "fullTitle": {
+              "en": "C A short note on binary search",
+              "ru": "В Короткая заметка о двоичном поиске"
+            },
+            "galleys": [
+              {
+                "crossrefplugin::registeredDoi": null,
+                "crossrefplugin::status": null,
+                "crossrefplugin_batchId": null,
+                "crossrefplugin_failedMsg": null,
+                "crossrefplugin_successMsg": null,
+                "dataciteplugin::registeredDoi": null,
+                "dataciteplugin::status": null,
+                "doiObject": null,
+                "file": {
+                  "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/4/files/19",
+                  "assocId": 3,
+                  "assocType": 521,
+                  "caption": null,
+                  "copyrightOwner": null,
+                  "createdAt": "2026-10-12 01:58:08",
+                  "creator": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "credit": null,
+                  "crossrefplugin::registeredDoi": null,
+                  "crossrefplugin::status": null,
+                  "crossrefplugin_batchId": null,
+                  "crossrefplugin_failedMsg": null,
+                  "crossrefplugin_successMsg": null,
+                  "dataciteplugin::registeredDoi": null,
+                  "dataciteplugin::status": null,
+                  "dateCreated": null,
+                  "dependentFiles": [],
+                  "description": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "documentType": "pdf",
+                  "fileId": 15,
+                  "fileStage": 10,
+                  "genreId": 1,
+                  "genreIsDependent": false,
+                  "genreIsSupplementary": false,
+                  "genreName": {
+                    "en": "Article Text",
+                    "ru": "Текст статьи"
+                  },
+                  "id": 19,
+                  "language": null,
+                  "locale": null,
+                  "mimetype": "application/pdf",
+                  "name": {
+                    "ru": "C-styled.pdf",
+                    "en": ""
+                  },
+                  "path": "journals/1/articles/4/6acbdc40e697f.pdf",
+                  "publisher": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "revisions": [],
+                  "source": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "sourceSubmissionFileId": null,
+                  "sponsor": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "subject": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "submissionId": 4,
+                  "terms": null,
+                  "updatedAt": "2026-10-12 01:58:08",
+                  "uploaderUserId": 2,
+                  "uploaderUserName": "editor",
+                  "url": "http://localhost:8080/vestnik-test/$$$call$$$/api/file/file-api/download-file?submissionFileId=19&submissionId=4&stageId=5",
+                  "viewable": null
+                },
+                "id": 3,
+                "isApproved": false,
+                "label": "PDF",
+                "locale": "ru",
+                "pub-id::publisher-id": null,
+                "publicationId": 4,
+                "seq": 0,
+                "submissionFileId": 19,
+                "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/4/version/4/3",
+                "urlRemote": null
+              }
+            ],
+            "id": 4,
+            "locale": "ru",
+            "pages": "4",
+            "prefix": {
+              "ru": "",
+              "en": ""
+            },
+            "primaryContactId": 7,
+            "pub-id::publisher-id": null,
+            "sectionId": 1,
+            "status": 3,
+            "submissionId": 4,
+            "subtitle": {
+              "ru": "",
+              "en": ""
+            },
+            "title": {
+              "en": "C A short note on binary search",
+              "ru": "В Короткая заметка о двоичном поиске"
+            },
+            "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/4/version/4",
+            "version": 1
+          }
+        ],
+        "recommendationsIn": null,
+        "reviewersNotAssigned": false,
+        "revisionsRequested": false,
+        "revisionsSubmitted": false,
+        "scheduledIn": null,
+        "stageId": 5,
+        "status": 3,
+        "statusLabel": "Published",
+        "submissionProgress": "",
+        "urlAuthorWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/mySubmissions?workflowSubmissionId=4",
+        "urlEditorialWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/editorial?workflowSubmissionId=4",
+        "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/4",
+        "urlSubmissionWizard": "http://localhost:8080/vestnik-test/en/submission?id=4",
+        "urlWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/editorial?workflowSubmissionId=4"
+      },
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/3",
+        "contextId": 1,
+        "crossrefplugin::registeredDoi": null,
+        "crossrefplugin::status": null,
+        "crossrefplugin_batchId": null,
+        "crossrefplugin_failedMsg": null,
+        "crossrefplugin_successMsg": null,
+        "currentPublicationId": 3,
+        "dataciteplugin::registeredDoi": null,
+        "dataciteplugin::status": null,
+        "dateLastActivity": "2026-10-12 01:59:12",
+        "dateSubmitted": "2026-10-12 01:57:46",
+        "editorAssigned": true,
+        "id": 3,
+        "issueToBePublished": null,
+        "lastModified": "2026-10-12 01:57:46",
+        "locale": "ru",
+        "publications": [
+          {
+            "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/3/publications/3",
+            "authorsString": "Второй Автор ()",
+            "authorsStringIncludeInBrowse": "Второй Автор ()",
+            "authorsStringShort": "Автор",
+            "categoryIds": [],
+            "coverImage": {
+              "ru": null,
+              "en": null
+            },
+            "crossrefplugin::registeredDoi": null,
+            "crossrefplugin::status": null,
+            "crossrefplugin_batchId": null,
+            "crossrefplugin_failedMsg": null,
+            "crossrefplugin_successMsg": null,
+            "dataciteplugin::registeredDoi": null,
+            "dataciteplugin::status": null,
+            "datePublished": null,
+            "doiObject": null,
+            "fullTitle": {
+              "en": "B Analysing waiting time in a queue",
+              "ru": "Б Анализ времени ожидания в очереди"
+            },
+            "galleys": [],
+            "id": 3,
+            "locale": "ru",
+            "pages": null,
+            "prefix": {
+              "ru": "",
+              "en": ""
+            },
+            "primaryContactId": 6,
+            "pub-id::publisher-id": null,
+            "sectionId": 1,
+            "status": 1,
+            "submissionId": 3,
+            "subtitle": {
+              "ru": "",
+              "en": ""
+            },
+            "title": {
+              "en": "B Analysing waiting time in a queue",
+              "ru": "Б Анализ времени ожидания в очереди"
+            },
+            "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/3/version/3",
+            "version": 1
+          }
+        ],
+        "recommendationsIn": null,
+        "reviewersNotAssigned": false,
+        "revisionsRequested": false,
+        "revisionsSubmitted": false,
+        "scheduledIn": null,
+        "stageId": 3,
+        "status": 4,
+        "statusLabel": "Declined",
+        "submissionProgress": "",
+        "urlAuthorWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/mySubmissions?workflowSubmissionId=3",
+        "urlEditorialWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/editorial?workflowSubmissionId=3",
+        "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/3",
+        "urlSubmissionWizard": "http://localhost:8080/vestnik-test/en/submission?id=3",
+        "urlWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/editorial?workflowSubmissionId=3"
+      },
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/2",
+        "contextId": 1,
+        "crossrefplugin::registeredDoi": null,
+        "crossrefplugin::status": null,
+        "crossrefplugin_batchId": null,
+        "crossrefplugin_failedMsg": null,
+        "crossrefplugin_successMsg": null,
+        "currentPublicationId": 2,
+        "dataciteplugin::registeredDoi": null,
+        "dataciteplugin::status": null,
+        "dateLastActivity": "2026-10-12 01:57:15",
+        "dateSubmitted": "2026-10-12 01:34:09",
+        "editorAssigned": true,
+        "id": 2,
+        "issueToBePublished": null,
+        "lastModified": "2026-10-12 01:44:06",
+        "locale": "ru",
+        "publications": [
+          {
+            "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/2/publications/2",
+            "authorsString": "Тестовый Автор, Второй Автор, Третий Автор ()",
+            "authorsStringIncludeInBrowse": "Тестовый Автор, Второй Автор, Третий Автор ()",
+            "authorsStringShort": "Автор et al.",
+            "categoryIds": [],
+            "coverImage": {
+              "ru": null,
+              "en": null
+            },
+            "crossrefplugin::registeredDoi": null,
+            "crossrefplugin::status": null,
+            "crossrefplugin_batchId": null,
+            "crossrefplugin_failedMsg": null,
+            "crossrefplugin_successMsg": null,
+            "dataciteplugin::registeredDoi": null,
+            "dataciteplugin::status": null,
+            "datePublished": "2026-10-12",
+            "doiObject": null,
+            "fullTitle": {
+              "en": "A Testing duplicate detection in arrays",
+              "ru": "А Проверка поиска дубликатов в массивах"
+            },
+            "galleys": [
+              {
+                "crossrefplugin::registeredDoi": null,
+                "crossrefplugin::status": null,
+                "crossrefplugin_batchId": null,
+                "crossrefplugin_failedMsg": null,
+                "crossrefplugin_successMsg": null,
+                "dataciteplugin::registeredDoi": null,
+                "dataciteplugin::status": null,
+                "doiObject": null,
+                "file": {
+                  "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/2/files/15",
+                  "assocId": 2,
+                  "assocType": 521,
+                  "caption": null,
+                  "copyrightOwner": null,
+                  "createdAt": "2026-10-12 01:56:28",
+                  "creator": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "credit": null,
+                  "crossrefplugin::registeredDoi": null,
+                  "crossrefplugin::status": null,
+                  "crossrefplugin_batchId": null,
+                  "crossrefplugin_failedMsg": null,
+                  "crossrefplugin_successMsg": null,
+                  "dataciteplugin::registeredDoi": null,
+                  "dataciteplugin::status": null,
+                  "dateCreated": null,
+                  "dependentFiles": [],
+                  "description": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "documentType": "pdf",
+                  "fileId": 11,
+                  "fileStage": 10,
+                  "genreId": 1,
+                  "genreIsDependent": false,
+                  "genreIsSupplementary": false,
+                  "genreName": {
+                    "en": "Article Text",
+                    "ru": "Текст статьи"
+                  },
+                  "id": 15,
+                  "language": null,
+                  "locale": null,
+                  "mimetype": "application/pdf",
+                  "name": {
+                    "ru": "A-v2.pdf",
+                    "en": ""
+                  },
+                  "path": "journals/1/articles/2/6acbdbdc39124.pdf",
+                  "publisher": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "revisions": [],
+                  "source": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "sourceSubmissionFileId": null,
+                  "sponsor": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "subject": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "submissionId": 2,
+                  "terms": null,
+                  "updatedAt": "2026-10-12 01:56:28",
+                  "uploaderUserId": 2,
+                  "uploaderUserName": "editor",
+                  "url": "http://localhost:8080/vestnik-test/$$$call$$$/api/file/file-api/download-file?submissionFileId=15&submissionId=2&stageId=5",
+                  "viewable": null
+                },
+                "id": 2,
+                "isApproved": false,
+                "label": "PDF",
+                "locale": "ru",
+                "pub-id::publisher-id": null,
+                "publicationId": 2,
+                "seq": 0,
+                "submissionFileId": 15,
+                "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/2/version/2/2",
+                "urlRemote": null
+              }
+            ],
+            "id": 2,
+            "locale": "ru",
+            "pages": "1–3",
+            "prefix": {
+              "ru": "",
+              "en": ""
+            },
+            "primaryContactId": 2,
+            "pub-id::publisher-id": null,
+            "sectionId": 1,
+            "status": 3,
+            "submissionId": 2,
+            "subtitle": {
+              "ru": "",
+              "en": ""
+            },
+            "title": {
+              "en": "A Testing duplicate detection in arrays",
+              "ru": "А Проверка поиска дубликатов в массивах"
+            },
+            "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/2/version/2",
+            "version": 1
+          }
+        ],
+        "recommendationsIn": null,
+        "reviewersNotAssigned": false,
+        "revisionsRequested": false,
+        "revisionsSubmitted": false,
+        "scheduledIn": null,
+        "stageId": 5,
+        "status": 3,
+        "statusLabel": "Published",
+        "submissionProgress": "",
+        "urlAuthorWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/mySubmissions?workflowSubmissionId=2",
+        "urlEditorialWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/editorial?workflowSubmissionId=2",
+        "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/2",
+        "urlSubmissionWizard": "http://localhost:8080/vestnik-test/en/submission?id=2",
+        "urlWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/editorial?workflowSubmissionId=2"
+      },
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/1",
+        "contextId": 1,
+        "crossrefplugin::registeredDoi": null,
+        "crossrefplugin::status": null,
+        "crossrefplugin_batchId": null,
+        "crossrefplugin_failedMsg": null,
+        "crossrefplugin_successMsg": null,
+        "currentPublicationId": 1,
+        "dataciteplugin::registeredDoi": null,
+        "dataciteplugin::status": null,
+        "dateLastActivity": "2026-10-07 21:07:06",
+        "dateSubmitted": "2026-10-07 20:36:28",
+        "editorAssigned": true,
+        "id": 1,
+        "issueToBePublished": null,
+        "lastModified": "2026-10-07 20:36:28",
+        "locale": "ru",
+        "publications": [
+          {
+            "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/1/publications/1",
+            "authorsString": "Тестовый Автор ()",
+            "authorsStringIncludeInBrowse": "Тестовый Автор ()",
+            "authorsStringShort": "Автор",
+            "categoryIds": [],
+            "coverImage": {
+              "ru": null,
+              "en": null
+            },
+            "crossrefplugin::registeredDoi": null,
+            "crossrefplugin::status": null,
+            "crossrefplugin_batchId": null,
+            "crossrefplugin_failedMsg": null,
+            "crossrefplugin_successMsg": null,
+            "dataciteplugin::registeredDoi": null,
+            "dataciteplugin::status": null,
+            "datePublished": "2026-10-07",
+            "doiObject": null,
+            "fullTitle": {
+              "en": "Comparison of duplicate detection algorithms",
+              "ru": "Сравнение алгоритмов поиска дубликатов"
+            },
+            "galleys": [
+              {
+                "crossrefplugin::registeredDoi": null,
+                "crossrefplugin::status": null,
+                "crossrefplugin_batchId": null,
+                "crossrefplugin_failedMsg": null,
+                "crossrefplugin_successMsg": null,
+                "dataciteplugin::registeredDoi": null,
+                "dataciteplugin::status": null,
+                "doiObject": null,
+                "file": {
+                  "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/1/files/9",
+                  "assocId": 1,
+                  "assocType": 521,
+                  "caption": null,
+                  "copyrightOwner": null,
+                  "createdAt": "2026-10-07 21:03:26",
+                  "creator": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "credit": null,
+                  "crossrefplugin::registeredDoi": null,
+                  "crossrefplugin::status": null,
+                  "crossrefplugin_batchId": null,
+                  "crossrefplugin_failedMsg": null,
+                  "crossrefplugin_successMsg": null,
+                  "dataciteplugin::registeredDoi": null,
+                  "dataciteplugin::status": null,
+                  "dateCreated": null,
+                  "dependentFiles": [],
+                  "description": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "documentType": "pdf",
+                  "fileId": 5,
+                  "fileStage": 10,
+                  "genreId": 1,
+                  "genreIsDependent": false,
+                  "genreIsSupplementary": false,
+                  "genreName": {
+                    "en": "Article Text",
+                    "ru": "Текст статьи"
+                  },
+                  "id": 9,
+                  "language": null,
+                  "locale": null,
+                  "mimetype": "application/pdf",
+                  "name": {
+                    "en": "",
+                    "ru": "article-a-v2.pdf"
+                  },
+                  "path": "journals/1/articles/1/6ac6512e2ae5a.pdf",
+                  "publisher": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "revisions": [],
+                  "source": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "sourceSubmissionFileId": null,
+                  "sponsor": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "subject": {
+                    "ru": "",
+                    "en": ""
+                  },
+                  "submissionId": 1,
+                  "terms": null,
+                  "updatedAt": "2026-10-07 21:03:37",
+                  "uploaderUserId": 1,
+                  "uploaderUserName": "admin",
+                  "url": "http://localhost:8080/vestnik-test/$$$call$$$/api/file/file-api/download-file?submissionFileId=9&submissionId=1&stageId=5",
+                  "viewable": null
+                },
+                "id": 1,
+                "isApproved": false,
+                "label": "PDF",
+                "locale": "ru",
+                "pub-id::publisher-id": null,
+                "publicationId": 1,
+                "seq": 0,
+                "submissionFileId": 9,
+                "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/1/version/1/1",
+                "urlRemote": null
+              }
+            ],
+            "id": 1,
+            "locale": "ru",
+            "pages": null,
+            "prefix": {
+              "ru": "",
+              "en": ""
+            },
+            "primaryContactId": 1,
+            "pub-id::publisher-id": null,
+            "sectionId": 1,
+            "status": 3,
+            "submissionId": 1,
+            "subtitle": {
+              "ru": "",
+              "en": ""
+            },
+            "title": {
+              "en": "Comparison of duplicate detection algorithms",
+              "ru": "Сравнение алгоритмов поиска дубликатов"
+            },
+            "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/1/version/1",
+            "version": 1
+          }
+        ],
+        "recommendationsIn": null,
+        "reviewersNotAssigned": false,
+        "revisionsRequested": false,
+        "revisionsSubmitted": false,
+        "scheduledIn": null,
+        "stageId": 5,
+        "status": 3,
+        "statusLabel": "Published",
+        "submissionProgress": "",
+        "urlAuthorWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/mySubmissions?workflowSubmissionId=1",
+        "urlEditorialWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/editorial?workflowSubmissionId=1",
+        "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/1",
+        "urlSubmissionWizard": "http://localhost:8080/vestnik-test/en/submission?id=1",
+        "urlWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/editorial?workflowSubmissionId=1"
+      }
+    ]
+  }
+}

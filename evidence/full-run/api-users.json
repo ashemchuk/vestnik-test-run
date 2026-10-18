@@ -1,0 +1,707 @@
+{
+  "http": 200,
+  "body": {
+    "itemsMax": 11,
+    "items": [
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/users/1",
+        "affiliation": {
+          "en": "",
+          "ru": ""
+        },
+        "biography": {
+          "en": "",
+          "ru": ""
+        },
+        "canLoginAs": false,
+        "canMergeUsers": false,
+        "disabled": false,
+        "displayInitials": "AA",
+        "email": "admin@example.test",
+        "familyName": {
+          "ru": "admin",
+          "en": ""
+        },
+        "fullName": "admin admin",
+        "givenName": {
+          "ru": "admin",
+          "en": ""
+        },
+        "gossip": null,
+        "groups": [
+          {
+            "id": 2,
+            "name": "Journal manager",
+            "abbrev": "JM",
+            "roleId": 16,
+            "userUserGroupId": 2,
+            "showTitle": true,
+            "recommendOnly": false,
+            "permitSelfRegistration": false,
+            "permitMetadataEdit": true,
+            "dateStart": null,
+            "dateEnd": null,
+            "masthead": false
+          }
+        ],
+        "id": 1,
+        "interests": [],
+        "orcid": null,
+        "orcidAccessDenied": null,
+        "orcidAccessExpiresOn": null,
+        "orcidAccessScope": null,
+        "orcidAccessToken": null,
+        "orcidDisplayValue": null,
+        "orcidEmailToken": null,
+        "orcidIsVerified": null,
+        "orcidRefreshToken": null,
+        "orcidReviewPutCode": null,
+        "preferredPublicName": {
+          "en": "",
+          "ru": ""
+        },
+        "stageAssignments": [],
+        "userName": "admin"
+      },
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/users/2",
+        "affiliation": {
+          "en": "",
+          "ru": ""
+        },
+        "biography": {
+          "en": "",
+          "ru": ""
+        },
+        "canLoginAs": true,
+        "canMergeUsers": true,
+        "disabled": false,
+        "displayInitials": "ТР",
+        "email": "editor@example.test",
+        "familyName": {
+          "en": "Редактор",
+          "ru": "Редактор"
+        },
+        "fullName": "Тестовый Редактор",
+        "givenName": {
+          "en": "Тестовый",
+          "ru": "Тестовый"
+        },
+        "gossip": null,
+        "groups": [
+          {
+            "id": 3,
+            "name": "Journal editor",
+            "abbrev": "JE",
+            "roleId": 16,
+            "userUserGroupId": 3,
+            "showTitle": true,
+            "recommendOnly": false,
+            "permitSelfRegistration": false,
+            "permitMetadataEdit": true,
+            "dateStart": "2026-10-07T13:23:22.000000Z",
+            "dateEnd": null,
+            "masthead": true
+          }
+        ],
+        "id": 2,
+        "interests": [],
+        "orcid": null,
+        "orcidAccessDenied": null,
+        "orcidAccessExpiresOn": null,
+        "orcidAccessScope": null,
+        "orcidAccessToken": null,
+        "orcidDisplayValue": null,
+        "orcidEmailToken": null,
+        "orcidIsVerified": null,
+        "orcidRefreshToken": null,
+        "orcidReviewPutCode": null,
+        "preferredPublicName": {
+          "en": "",
+          "ru": ""
+        },
+        "stageAssignments": [],
+        "userName": "editor"
+      },
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/users/3",
+        "affiliation": {
+          "en": "",
+          "ru": ""
+        },
+        "biography": {
+          "en": "",
+          "ru": ""
+        },
+        "canLoginAs": true,
+        "canMergeUsers": true,
+        "disabled": false,
+        "displayInitials": "ТА",
+        "email": "author@example.test",
+        "familyName": {
+          "en": "Автор",
+          "ru": "Автор"
+        },
+        "fullName": "Тестовый Автор",
+        "givenName": {
+          "en": "Тестовый",
+          "ru": "Тестовый"
+        },
+        "gossip": null,
+        "groups": [
+          {
+            "id": 14,
+            "name": "Author",
+            "abbrev": "AU",
+            "roleId": 65536,
+            "userUserGroupId": 4,
+            "showTitle": true,
+            "recommendOnly": false,
+            "permitSelfRegistration": true,
+            "permitMetadataEdit": false,
+            "dateStart": "2026-10-07T13:23:22.000000Z",
+            "dateEnd": null,
+            "masthead": true
+          }
+        ],
+        "id": 3,
+        "interests": [],
+        "orcid": null,
+        "orcidAccessDenied": null,
+        "orcidAccessExpiresOn": null,
+        "orcidAccessScope": null,
+        "orcidAccessToken": null,
+        "orcidDisplayValue": null,
+        "orcidEmailToken": null,
+        "orcidIsVerified": null,
+        "orcidRefreshToken": null,
+        "orcidReviewPutCode": null,
+        "preferredPublicName": {
+          "en": "",
+          "ru": ""
+        },
+        "stageAssignments": [],
+        "userName": "author"
+      },
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/users/4",
+        "affiliation": {
+          "en": "",
+          "ru": ""
+        },
+        "biography": {
+          "en": "",
+          "ru": ""
+        },
+        "canLoginAs": true,
+        "canMergeUsers": true,
+        "disabled": false,
+        "displayInitials": "ПР",
+        "email": "reviewer1@example.test",
+        "familyName": {
+          "en": "Рецензент",
+          "ru": "Рецензент"
+        },
+        "fullName": "Первый Рецензент",
+        "givenName": {
+          "en": "Первый",
+          "ru": "Первый"
+        },
+        "gossip": null,
+        "groups": [
+          {
+            "id": 16,
+            "name": "Reviewer",
+            "abbrev": "R",
+            "roleId": 4096,
+            "userUserGroupId": 5,
+            "showTitle": true,
+            "recommendOnly": false,
+            "permitSelfRegistration": true,
+            "permitMetadataEdit": false,
+            "dateStart": "2026-10-07T13:23:22.000000Z",
+            "dateEnd": null,
+            "masthead": true
+          }
+        ],
+        "id": 4,
+        "interests": [
+          {
+            "id": 1,
+            "interest": "информационные технологии:алгоритмы"
+          }
+        ],
+        "orcid": null,
+        "orcidAccessDenied": null,
+        "orcidAccessExpiresOn": null,
+        "orcidAccessScope": null,
+        "orcidAccessToken": null,
+        "orcidDisplayValue": null,
+        "orcidEmailToken": null,
+        "orcidIsVerified": null,
+        "orcidRefreshToken": null,
+        "orcidReviewPutCode": null,
+        "preferredPublicName": {
+          "en": "",
+          "ru": ""
+        },
+        "stageAssignments": [],
+        "userName": "reviewer1"
+      },
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/users/5",
+        "affiliation": {
+          "en": "",
+          "ru": ""
+        },
+        "biography": {
+          "en": "",
+          "ru": ""
+        },
+        "canLoginAs": true,
+        "canMergeUsers": true,
+        "disabled": false,
+        "displayInitials": "ВР",
+        "email": "reviewer2@example.test",
+        "familyName": {
+          "en": "Рецензент",
+          "ru": "Рецензент"
+        },
+        "fullName": "Второй Рецензент",
+        "givenName": {
+          "en": "Второй",
+          "ru": "Второй"
+        },
+        "gossip": null,
+        "groups": [
+          {
+            "id": 16,
+            "name": "Reviewer",
+            "abbrev": "R",
+            "roleId": 4096,
+            "userUserGroupId": 6,
+            "showTitle": true,
+            "recommendOnly": false,
+            "permitSelfRegistration": true,
+            "permitMetadataEdit": false,
+            "dateStart": "2026-10-07T13:23:22.000000Z",
+            "dateEnd": null,
+            "masthead": true
+          }
+        ],
+        "id": 5,
+        "interests": [
+          {
+            "id": 1,
+            "interest": "информационные технологии:алгоритмы"
+          }
+        ],
+        "orcid": null,
+        "orcidAccessDenied": null,
+        "orcidAccessExpiresOn": null,
+        "orcidAccessScope": null,
+        "orcidAccessToken": null,
+        "orcidDisplayValue": null,
+        "orcidEmailToken": null,
+        "orcidIsVerified": null,
+        "orcidRefreshToken": null,
+        "orcidReviewPutCode": null,
+        "preferredPublicName": {
+          "en": "",
+          "ru": ""
+        },
+        "stageAssignments": [],
+        "userName": "reviewer2"
+      },
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/users/6",
+        "affiliation": {
+          "en": "",
+          "ru": ""
+        },
+        "biography": {
+          "en": "",
+          "ru": ""
+        },
+        "canLoginAs": true,
+        "canMergeUsers": true,
+        "disabled": false,
+        "displayInitials": "ГР",
+        "email": "chiefeditor@example.test",
+        "familyName": {
+          "en": "Редактор",
+          "ru": "Редактор"
+        },
+        "fullName": "Главный Редактор",
+        "givenName": {
+          "en": "Главный",
+          "ru": "Главный"
+        },
+        "gossip": null,
+        "groups": [
+          {
+            "id": 3,
+            "name": "Journal editor",
+            "abbrev": "JE",
+            "roleId": 16,
+            "userUserGroupId": 7,
+            "showTitle": true,
+            "recommendOnly": false,
+            "permitSelfRegistration": false,
+            "permitMetadataEdit": true,
+            "dateStart": "2026-10-11T18:29:21.000000Z",
+            "dateEnd": null,
+            "masthead": true
+          }
+        ],
+        "id": 6,
+        "interests": [],
+        "orcid": null,
+        "orcidAccessDenied": null,
+        "orcidAccessExpiresOn": null,
+        "orcidAccessScope": null,
+        "orcidAccessToken": null,
+        "orcidDisplayValue": null,
+        "orcidEmailToken": null,
+        "orcidIsVerified": null,
+        "orcidRefreshToken": null,
+        "orcidReviewPutCode": null,
+        "preferredPublicName": {
+          "en": "",
+          "ru": ""
+        },
+        "stageAssignments": [],
+        "userName": "chiefeditor"
+      },
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/users/7",
+        "affiliation": {
+          "en": "",
+          "ru": ""
+        },
+        "biography": {
+          "en": "",
+          "ru": ""
+        },
+        "canLoginAs": true,
+        "canMergeUsers": true,
+        "disabled": false,
+        "displayInitials": "ТР",
+        "email": "reviewer3@example.test",
+        "familyName": {
+          "en": "Рецензент",
+          "ru": "Рецензент"
+        },
+        "fullName": "Третий Рецензент",
+        "givenName": {
+          "en": "Третий",
+          "ru": "Третий"
+        },
+        "gossip": null,
+        "groups": [
+          {
+            "id": 16,
+            "name": "Reviewer",
+            "abbrev": "R",
+            "roleId": 4096,
+            "userUserGroupId": 8,
+            "showTitle": true,
+            "recommendOnly": false,
+            "permitSelfRegistration": true,
+            "permitMetadataEdit": false,
+            "dateStart": "2026-10-11T18:29:21.000000Z",
+            "dateEnd": null,
+            "masthead": true
+          }
+        ],
+        "id": 7,
+        "interests": [
+          {
+            "id": 1,
+            "interest": "информационные технологии:алгоритмы"
+          }
+        ],
+        "orcid": null,
+        "orcidAccessDenied": null,
+        "orcidAccessExpiresOn": null,
+        "orcidAccessScope": null,
+        "orcidAccessToken": null,
+        "orcidDisplayValue": null,
+        "orcidEmailToken": null,
+        "orcidIsVerified": null,
+        "orcidRefreshToken": null,
+        "orcidReviewPutCode": null,
+        "preferredPublicName": {
+          "en": "",
+          "ru": ""
+        },
+        "stageAssignments": [],
+        "userName": "reviewer3"
+      },
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/users/8",
+        "affiliation": {
+          "en": "",
+          "ru": ""
+        },
+        "biography": {
+          "en": "",
+          "ru": ""
+        },
+        "canLoginAs": true,
+        "canMergeUsers": true,
+        "disabled": false,
+        "displayInitials": "ЧР",
+        "email": "reviewer4@example.test",
+        "familyName": {
+          "en": "Рецензент",
+          "ru": "Рецензент"
+        },
+        "fullName": "Четвёртый Рецензент",
+        "givenName": {
+          "en": "Четвёртый",
+          "ru": "Четвёртый"
+        },
+        "gossip": null,
+        "groups": [
+          {
+            "id": 16,
+            "name": "Reviewer",
+            "abbrev": "R",
+            "roleId": 4096,
+            "userUserGroupId": 9,
+            "showTitle": true,
+            "recommendOnly": false,
+            "permitSelfRegistration": true,
+            "permitMetadataEdit": false,
+            "dateStart": "2026-10-11T18:29:21.000000Z",
+            "dateEnd": null,
+            "masthead": true
+          }
+        ],
+        "id": 8,
+        "interests": [
+          {
+            "id": 1,
+            "interest": "информационные технологии:алгоритмы"
+          }
+        ],
+        "orcid": null,
+        "orcidAccessDenied": null,
+        "orcidAccessExpiresOn": null,
+        "orcidAccessScope": null,
+        "orcidAccessToken": null,
+        "orcidDisplayValue": null,
+        "orcidEmailToken": null,
+        "orcidIsVerified": null,
+        "orcidRefreshToken": null,
+        "orcidReviewPutCode": null,
+        "preferredPublicName": {
+          "en": "",
+          "ru": ""
+        },
+        "stageAssignments": [],
+        "userName": "reviewer4"
+      },
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/users/9",
+        "affiliation": {
+          "en": "",
+          "ru": ""
+        },
+        "biography": {
+          "en": "",
+          "ru": ""
+        },
+        "canLoginAs": true,
+        "canMergeUsers": true,
+        "disabled": false,
+        "displayInitials": "ПР",
+        "email": "reviewer5@example.test",
+        "familyName": {
+          "en": "Рецензент",
+          "ru": "Рецензент"
+        },
+        "fullName": "Пятый Рецензент",
+        "givenName": {
+          "en": "Пятый",
+          "ru": "Пятый"
+        },
+        "gossip": null,
+        "groups": [
+          {
+            "id": 16,
+            "name": "Reviewer",
+            "abbrev": "R",
+            "roleId": 4096,
+            "userUserGroupId": 10,
+            "showTitle": true,
+            "recommendOnly": false,
+            "permitSelfRegistration": true,
+            "permitMetadataEdit": false,
+            "dateStart": "2026-10-11T18:29:21.000000Z",
+            "dateEnd": null,
+            "masthead": true
+          },
+          {
+            "id": 19,
+            "name": "Editorial Board Member",
+            "abbrev": "EBM",
+            "roleId": 4097,
+            "userUserGroupId": 11,
+            "showTitle": true,
+            "recommendOnly": false,
+            "permitSelfRegistration": false,
+            "permitMetadataEdit": false,
+            "dateStart": "2026-10-11T18:29:21.000000Z",
+            "dateEnd": null,
+            "masthead": true
+          }
+        ],
+        "id": 9,
+        "interests": [
+          {
+            "id": 1,
+            "interest": "информационные технологии:алгоритмы"
+          }
+        ],
+        "orcid": null,
+        "orcidAccessDenied": null,
+        "orcidAccessExpiresOn": null,
+        "orcidAccessScope": null,
+        "orcidAccessToken": null,
+        "orcidDisplayValue": null,
+        "orcidEmailToken": null,
+        "orcidIsVerified": null,
+        "orcidRefreshToken": null,
+        "orcidReviewPutCode": null,
+        "preferredPublicName": {
+          "en": "",
+          "ru": ""
+        },
+        "stageAssignments": [],
+        "userName": "reviewer5"
+      },
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/users/10",
+        "affiliation": {
+          "en": "",
+          "ru": ""
+        },
+        "biography": {
+          "en": "",
+          "ru": ""
+        },
+        "canLoginAs": true,
+        "canMergeUsers": true,
+        "disabled": false,
+        "displayInitials": "ВА",
+        "email": "author2@example.test",
+        "familyName": {
+          "en": "Автор",
+          "ru": "Автор"
+        },
+        "fullName": "Второй Автор",
+        "givenName": {
+          "en": "Второй",
+          "ru": "Второй"
+        },
+        "gossip": null,
+        "groups": [
+          {
+            "id": 14,
+            "name": "Author",
+            "abbrev": "AU",
+            "roleId": 65536,
+            "userUserGroupId": 12,
+            "showTitle": true,
+            "recommendOnly": false,
+            "permitSelfRegistration": true,
+            "permitMetadataEdit": false,
+            "dateStart": "2026-10-11T18:29:21.000000Z",
+            "dateEnd": null,
+            "masthead": true
+          }
+        ],
+        "id": 10,
+        "interests": [],
+        "orcid": null,
+        "orcidAccessDenied": null,
+        "orcidAccessExpiresOn": null,
+        "orcidAccessScope": null,
+        "orcidAccessToken": null,
+        "orcidDisplayValue": null,
+        "orcidEmailToken": null,
+        "orcidIsVerified": null,
+        "orcidRefreshToken": null,
+        "orcidReviewPutCode": null,
+        "preferredPublicName": {
+          "en": "",
+          "ru": ""
+        },
+        "stageAssignments": [],
+        "userName": "author2"
+      },
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/users/11",
+        "affiliation": {
+          "en": "",
+          "ru": ""
+        },
+        "biography": {
+          "en": "",
+          "ru": ""
+        },
+        "canLoginAs": true,
+        "canMergeUsers": true,
+        "disabled": false,
+        "displayInitials": "ТА",
+        "email": "author3@example.test",
+        "familyName": {
+          "en": "Автор",
+          "ru": "Автор"
+        },
+        "fullName": "Третий Автор",
+        "givenName": {
+          "en": "Третий",
+          "ru": "Третий"
+        },
+        "gossip": null,
+        "groups": [
+          {
+            "id": 14,
+            "name": "Author",
+            "abbrev": "AU",
+            "roleId": 65536,
+            "userUserGroupId": 13,
+            "showTitle": true,
+            "recommendOnly": false,
+            "permitSelfRegistration": true,
+            "permitMetadataEdit": false,
+            "dateStart": "2026-10-11T18:29:21.000000Z",
+            "dateEnd": null,
+            "masthead": true
+          }
+        ],
+        "id": 11,
+        "interests": [],
+        "orcid": null,
+        "orcidAccessDenied": null,
+        "orcidAccessExpiresOn": null,
+        "orcidAccessScope": null,
+        "orcidAccessToken": null,
+        "orcidDisplayValue": null,
+        "orcidEmailToken": null,
+        "orcidIsVerified": null,
+        "orcidRefreshToken": null,
+        "orcidReviewPutCode": null,
+        "preferredPublicName": {
+          "en": "",
+          "ru": ""
+        },
+        "stageAssignments": [],
+        "userName": "author3"
+      }
+    ]
+  }
+}

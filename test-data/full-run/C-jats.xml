@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.2" xml:lang="ru">
+ <front>
+  <journal-meta><journal-id journal-id-type="publisher-id">vestnik-test</journal-id><journal-title-group><journal-title>Тестовый журнал Вестник</journal-title></journal-title-group></journal-meta>
+  <article-meta>
+   <article-id pub-id-type="publisher-id">4</article-id>
+   <title-group><article-title>В Короткая заметка о двоичном поиске</article-title></title-group>
+   <contrib-group><contrib contrib-type="author"><name><surname>Автор</surname><given-names>Третий</given-names></name></contrib></contrib-group>
+   <pub-date publication-format="electronic" date-type="pub"><day>12</day><month>10</month><year>2026</year></pub-date>
+   <volume>1</volume><issue>4</issue><fpage>4</fpage>
+   <abstract><p>Короткая тестовая заметка: двоичный поиск в отсортированном массиве требует O(log n) сравнений.</p></abstract>
+  </article-meta>
+ </front>
+ <body><sec><title>Двоичный поиск</title><p>На каждом шаге алгоритм сравнивает искомое значение со средним элементом отсортированного массива и продолжает поиск в одной половине. Число сравнений растёт как O(log n).</p></sec></body>
+ <back/>
+</article>

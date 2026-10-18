@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:8080/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+		http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2026-10-11T19:07:32Z</responseDate>
+	<request verb="ListRecords" metadataPrefix="oai_dc">http://localhost:8080/vestnik-test/ru/oai</request>
+	<ListRecords>
+		<record>
+			<header>
+				<identifier>oai:vestnik.local:article/1</identifier>
+				<datestamp>2026-10-07T14:07:06Z</datestamp>
+				<setSpec>vestnik-test:ST</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Comparison of duplicate detection algorithms</dc:title>
+	<dc:title xml:lang="ru">Сравнение алгоритмов поиска дубликатов</dc:title>
+	<dc:creator xml:lang="en">Автор, Тестовый</dc:creator>
+	<dc:creator xml:lang="ru">Автор, Тестовый</dc:creator>
+	<dc:subject xml:lang="en">algorithms</dc:subject>
+	<dc:subject xml:lang="ru">алгоритмы</dc:subject>
+	<dc:description xml:lang="en">Pairwise comparison and set-based duplicate detection are considered. The number of comparisons is calculated for arrays of different sizes. The example illustrates quadratic complexity and expected linear complexity under standard hashing assumptions.</dc:description>
+	<dc:description xml:lang="ru">Рассматриваются попарное сравнение элементов и поиск повторов с помощью множества. Показана зависимость числа сравнений от размера массива. Расчётный пример демонстрирует различие квадратичной и ожидаемой линейной сложности.</dc:description>
+	<dc:publisher xml:lang="en">Vestnik Test Journal</dc:publisher>
+	<dc:publisher xml:lang="ru">Тестовый журнал Вестник</dc:publisher>
+	<dc:date>2026-10-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>http://localhost:8080/vestnik-test/article/view/1</dc:identifier>
+	<dc:source xml:lang="en">Vestnik Test Journal; Vol. 1 No. 1 (2026): Тестовый выпуск</dc:source>
+	<dc:source xml:lang="ru">Тестовый журнал Вестник; Том 1 № 1 (2026): Тестовый выпуск</dc:source>
+	<dc:language>ru</dc:language>
+	<dc:relation>http://localhost:8080/vestnik-test/article/view/1/1</dc:relation>
+	<dc:rights xml:lang="ru">Copyright (c) 2026 Тестовый журнал Вестник</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:vestnik.local:article/2</identifier>
+				<datestamp>2026-10-11T18:57:15Z</datestamp>
+				<setSpec>vestnik-test:ST</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A Testing duplicate detection in arrays</dc:title>
+	<dc:title xml:lang="ru">А Проверка поиска дубликатов в массивах</dc:title>
+	<dc:creator xml:lang="en">Автор, Тестовый</dc:creator>
+	<dc:creator xml:lang="en">Автор, Второй</dc:creator>
+	<dc:creator xml:lang="en">Автор, Третий</dc:creator>
+	<dc:creator xml:lang="ru">Автор, Тестовый</dc:creator>
+	<dc:creator xml:lang="ru">Автор, Второй</dc:creator>
+	<dc:creator xml:lang="ru">Автор, Третий</dc:creator>
+	<dc:subject xml:lang="ru">алгоритмы</dc:subject>
+	<dc:subject xml:lang="ru">дубликаты</dc:subject>
+	<dc:subject xml:lang="en">algorithms</dc:subject>
+	<dc:subject xml:lang="en">duplicates</dc:subject>
+	<dc:description xml:lang="en">A test paper with a formula and figure comparing pairwise search and a set.</dc:description>
+	<dc:description xml:lang="ru">Тестовая статья с формулой и рисунком. Сравниваются попарный поиск и множество.</dc:description>
+	<dc:publisher xml:lang="en">Vestnik Test Journal</dc:publisher>
+	<dc:publisher xml:lang="ru">Тестовый журнал Вестник</dc:publisher>
+	<dc:date>2026-10-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>http://localhost:8080/vestnik-test/article/view/2</dc:identifier>
+	<dc:source xml:lang="en">Vestnik Test Journal; Vol. 1 No. 4 (2026): Fourth quarter 2026; 1–3</dc:source>
+	<dc:source xml:lang="ru">Тестовый журнал Вестник; Том 1 № 4 (2026): IV квартал 2026; 1–3</dc:source>
+	<dc:language>ru</dc:language>
+	<dc:relation>http://localhost:8080/vestnik-test/article/view/2/2</dc:relation>
+	<dc:rights xml:lang="ru">Copyright (c) 2026 Тестовый журнал Вестник</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:vestnik.local:article/4</identifier>
+				<datestamp>2026-10-11T18:58:09Z</datestamp>
+				<setSpec>vestnik-test:ST</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">C A short note on stable sorting</dc:title>
+	<dc:title xml:lang="ru">В Короткая заметка о стабильной сортировке</dc:title>
+	<dc:creator xml:lang="en">Автор, Третий</dc:creator>
+	<dc:creator xml:lang="ru">Автор, Третий</dc:creator>
+	<dc:subject xml:lang="ru">алгоритмы</dc:subject>
+	<dc:subject xml:lang="en">algorithms</dc:subject>
+	<dc:description xml:lang="en">A test manuscript for the editorial workflow: C A short note on stable sorting.</dc:description>
+	<dc:description xml:lang="ru">Тестовая работа для проверки редакционного процесса: В Короткая заметка о стабильной сортировке.</dc:description>
+	<dc:publisher xml:lang="en">Vestnik Test Journal</dc:publisher>
+	<dc:publisher xml:lang="ru">Тестовый журнал Вестник</dc:publisher>
+	<dc:date>2026-10-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>http://localhost:8080/vestnik-test/article/view/4</dc:identifier>
+	<dc:source xml:lang="en">Vestnik Test Journal; Vol. 1 No. 4 (2026): Fourth quarter 2026; 4</dc:source>
+	<dc:source xml:lang="ru">Тестовый журнал Вестник; Том 1 № 4 (2026): IV квартал 2026; 4</dc:source>
+	<dc:language>ru</dc:language>
+	<dc:relation>http://localhost:8080/vestnik-test/article/view/4/3</dc:relation>
+	<dc:rights xml:lang="ru">Copyright (c) 2026 Тестовый журнал Вестник</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+	</ListRecords>
+</OAI-PMH>

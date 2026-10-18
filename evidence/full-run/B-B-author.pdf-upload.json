@@ -1,0 +1,73 @@
+{
+  "http": 200,
+  "body": {
+    "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/3/files/17",
+    "assocId": null,
+    "assocType": null,
+    "caption": null,
+    "copyrightOwner": null,
+    "createdAt": "2026-10-12 01:57:46",
+    "creator": {
+      "ru": "",
+      "en": ""
+    },
+    "credit": null,
+    "crossrefplugin::registeredDoi": null,
+    "crossrefplugin::status": null,
+    "crossrefplugin_batchId": null,
+    "crossrefplugin_failedMsg": null,
+    "crossrefplugin_successMsg": null,
+    "dataciteplugin::registeredDoi": null,
+    "dataciteplugin::status": null,
+    "dateCreated": null,
+    "dependentFiles": [],
+    "description": {
+      "ru": "",
+      "en": ""
+    },
+    "documentType": "pdf",
+    "fileId": 13,
+    "fileStage": 2,
+    "genreId": 1,
+    "genreIsDependent": false,
+    "genreIsSupplementary": false,
+    "genreName": {
+      "en": "Article Text",
+      "ru": "Текст статьи"
+    },
+    "id": 17,
+    "language": null,
+    "locale": null,
+    "mimetype": "application/pdf",
+    "name": {
+      "ru": "B-author.pdf",
+      "en": ""
+    },
+    "path": "journals/1/articles/3/6acbdc2a125f3.pdf",
+    "publisher": {
+      "ru": "",
+      "en": ""
+    },
+    "revisions": [],
+    "source": {
+      "ru": "",
+      "en": ""
+    },
+    "sourceSubmissionFileId": null,
+    "sponsor": {
+      "ru": "",
+      "en": ""
+    },
+    "subject": {
+      "ru": "",
+      "en": ""
+    },
+    "submissionId": 3,
+    "terms": null,
+    "updatedAt": "2026-10-12 01:57:46",
+    "uploaderUserId": 10,
+    "uploaderUserName": "author2",
+    "url": "http://localhost:8080/vestnik-test/$$$call$$$/api/file/file-api/download-file?submissionFileId=17&submissionId=3&stageId=1",
+    "viewable": null
+  }
+}

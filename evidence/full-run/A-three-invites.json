@@ -1,0 +1,261 @@
+{
+  "http": 200,
+  "body": {
+    "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/2",
+    "availableEditorialDecisions": [
+      {
+        "stageId": 3,
+        "id": 4,
+        "label": "Request Revisions"
+      },
+      {
+        "stageId": 3,
+        "id": 5,
+        "label": "Resubmit for Review"
+      },
+      {
+        "stageId": 3,
+        "id": 2,
+        "label": "Accept Submission"
+      },
+      {
+        "stageId": 3,
+        "id": 14,
+        "label": "New Review Round"
+      },
+      {
+        "stageId": 3,
+        "id": 31,
+        "label": "Cancel Review Round"
+      },
+      {
+        "stageId": 3,
+        "id": 6,
+        "label": "Decline Submission"
+      }
+    ],
+    "canCurrentUserChangeMetadata": true,
+    "commentsForTheEditors": null,
+    "contextId": 1,
+    "crossrefplugin::registeredDoi": null,
+    "crossrefplugin::status": null,
+    "crossrefplugin_batchId": null,
+    "crossrefplugin_failedMsg": null,
+    "crossrefplugin_successMsg": null,
+    "currentPublicationId": 2,
+    "dataciteplugin::registeredDoi": null,
+    "dataciteplugin::status": null,
+    "dateLastActivity": "2026-10-12 01:40:31",
+    "dateSubmitted": "2026-10-12 01:34:09",
+    "editorAssigned": true,
+    "id": 2,
+    "issueToBePublished": null,
+    "lastModified": "2026-10-12 01:34:09",
+    "locale": "ru",
+    "metadataLocales": {
+      "en": "English",
+      "ru": "Russian"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "fullName": "Тестовый Редактор",
+        "canLoginAs": false
+      },
+      {
+        "id": 3,
+        "fullName": "Тестовый Автор",
+        "canLoginAs": true
+      }
+    ],
+    "publications": [
+      {
+        "_href": "http://localhost:8080/vestnik-test/api/v1/submissions/2/publications/2",
+        "authorsString": "Тестовый Автор, Тестовый Автор, Второй Автор, Третий Автор ()",
+        "authorsStringIncludeInBrowse": "Тестовый Автор, Тестовый Автор, Второй Автор, Третий Автор ()",
+        "authorsStringShort": "Автор et al.",
+        "categoryIds": [],
+        "coverImage": {
+          "ru": null,
+          "en": null
+        },
+        "crossrefplugin::registeredDoi": null,
+        "crossrefplugin::status": null,
+        "crossrefplugin_batchId": null,
+        "crossrefplugin_failedMsg": null,
+        "crossrefplugin_successMsg": null,
+        "dataciteplugin::registeredDoi": null,
+        "dataciteplugin::status": null,
+        "datePublished": null,
+        "doiObject": null,
+        "fullTitle": {
+          "en": "A Testing duplicate detection in arrays",
+          "ru": "А Проверка поиска дубликатов в массивах"
+        },
+        "galleys": [],
+        "id": 2,
+        "locale": "ru",
+        "pages": null,
+        "prefix": {
+          "ru": "",
+          "en": ""
+        },
+        "primaryContactId": 3,
+        "pub-id::publisher-id": null,
+        "sectionId": 1,
+        "status": 1,
+        "submissionId": 2,
+        "subtitle": {
+          "ru": "",
+          "en": ""
+        },
+        "title": {
+          "en": "A Testing duplicate detection in arrays",
+          "ru": "А Проверка поиска дубликатов в массивах"
+        },
+        "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/2/version/2",
+        "version": 1
+      }
+    ],
+    "recommendationsIn": null,
+    "reviewAssignments": [
+      {
+        "id": 3,
+        "isCurrentUserAssigned": false,
+        "statusId": 0,
+        "status": "Waiting for a response from the reviewer.",
+        "dateDue": "2026-10-14",
+        "dateResponseDue": "2026-10-13",
+        "dateConfirmed": null,
+        "dateCompleted": null,
+        "dateConsidered": null,
+        "dateAssigned": "2026-10-12",
+        "competingInterests": null,
+        "round": 1,
+        "roundId": 3,
+        "recommendation": null,
+        "dateCancelled": null,
+        "reviewerId": 4,
+        "reviewerFullName": "Первый Рецензент",
+        "reviewMethod": 2,
+        "canLoginAs": true,
+        "canGossip": true,
+        "reviewerDisplayInitials": "ПР",
+        "reviewerHasOrcid": false
+      },
+      {
+        "id": 4,
+        "isCurrentUserAssigned": false,
+        "statusId": 0,
+        "status": "Waiting for a response from the reviewer.",
+        "dateDue": "2026-10-14",
+        "dateResponseDue": "2026-10-13",
+        "dateConfirmed": null,
+        "dateCompleted": null,
+        "dateConsidered": null,
+        "dateAssigned": "2026-10-12",
+        "competingInterests": null,
+        "round": 1,
+        "roundId": 3,
+        "recommendation": null,
+        "dateCancelled": null,
+        "reviewerId": 5,
+        "reviewerFullName": "Второй Рецензент",
+        "reviewMethod": 2,
+        "canLoginAs": true,
+        "canGossip": true,
+        "reviewerDisplayInitials": "ВР",
+        "reviewerHasOrcid": false
+      },
+      {
+        "id": 5,
+        "isCurrentUserAssigned": false,
+        "statusId": 0,
+        "status": "Waiting for a response from the reviewer.",
+        "dateDue": "2026-10-14",
+        "dateResponseDue": "2026-10-13",
+        "dateConfirmed": null,
+        "dateCompleted": null,
+        "dateConsidered": null,
+        "dateAssigned": "2026-10-12",
+        "competingInterests": null,
+        "round": 1,
+        "roundId": 3,
+        "recommendation": null,
+        "dateCancelled": null,
+        "reviewerId": 7,
+        "reviewerFullName": "Третий Рецензент",
+        "reviewMethod": 2,
+        "canLoginAs": true,
+        "canGossip": true,
+        "reviewerDisplayInitials": "ТР",
+        "reviewerHasOrcid": false
+      }
+    ],
+    "reviewRounds": [
+      {
+        "id": 3,
+        "round": 1,
+        "stageId": 3,
+        "statusId": 7,
+        "status": "Awaiting responses from reviewers."
+      }
+    ],
+    "reviewerSuggestions": [],
+    "reviewersNotAssigned": false,
+    "revisionsRequested": false,
+    "revisionsSubmitted": false,
+    "scheduledIn": null,
+    "stageId": 3,
+    "stages": [
+      {
+        "id": 1,
+        "label": "Submission",
+        "isActiveStage": false,
+        "editorAssigned": true,
+        "currentUserAssignedRoles": [
+          16
+        ],
+        "uploadedFilesCount": null
+      },
+      {
+        "id": 3,
+        "label": "Review",
+        "isActiveStage": true,
+        "editorAssigned": true,
+        "currentUserAssignedRoles": [
+          16
+        ],
+        "uploadedFilesCount": null
+      },
+      {
+        "id": 4,
+        "label": "Copyediting",
+        "isActiveStage": false,
+        "editorAssigned": true,
+        "currentUserAssignedRoles": [
+          16
+        ],
+        "uploadedFilesCount": 0
+      },
+      {
+        "id": 5,
+        "label": "Production",
+        "isActiveStage": false,
+        "editorAssigned": true,
+        "currentUserAssignedRoles": [
+          16
+        ],
+        "uploadedFilesCount": null
+      }
+    ],
+    "status": 1,
+    "statusLabel": "Queued",
+    "submissionProgress": "",
+    "urlAuthorWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/mySubmissions?workflowSubmissionId=2",
+    "urlEditorialWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/editorial?workflowSubmissionId=2",
+    "urlPublished": "http://localhost:8080/vestnik-test/en/article/view/2",
+    "urlSubmissionWizard": "http://localhost:8080/vestnik-test/en/submission?id=2",
+    "urlWorkflow": "http://localhost:8080/vestnik-test/en/dashboard/editorial?workflowSubmissionId=2"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "http": 401,
+  "body": {
+    "error": "api.submissionFiles.403.unauthorizedFileStageIdWrite",
+    "errorMessage": "You are not allowed to add and edit these files."
+  }
+}
